@@ -8,7 +8,7 @@
 
 GRWallpaperTrainingBlack:
   type: SSB64:RELOC
-  offset: 0x21AE4C
+  offset: 0x23C638
   size: 0x1548
   symbol: GRWallpaperTrainingBlack
   file_id: 26
@@ -17,7 +17,7 @@ GRWallpaperTrainingBlack:
 
 GRWallpaperTrainingYellow:
   type: SSB64:RELOC
-  offset: 0x21C394
+  offset: 0x23DB80
   size: 0x5B7C
   symbol: GRWallpaperTrainingYellow
   file_id: 27
@@ -26,7 +26,7 @@ GRWallpaperTrainingYellow:
 
 GRWallpaperTrainingBlue:
   type: SSB64:RELOC
-  offset: 0x221F10
+  offset: 0x2436FC
   size: 0xCD0
   symbol: GRWallpaperTrainingBlue
   file_id: 28
@@ -35,7 +35,7 @@ GRWallpaperTrainingBlue:
 
 StageDreamLand:
   type: SSB64:RELOC
-  offset: 0x32DE80
+  offset: 0x355768
   size: 0x13CEC
   symbol: StageDreamLand
   file_id: 88
@@ -44,7 +44,7 @@ StageDreamLand:
 
 StageZebes:
   type: SSB64:RELOC
-  offset: 0x341B6C
+  offset: 0x369454
   size: 0xE3FC
   symbol: StageZebes
   file_id: 89
@@ -53,7 +53,7 @@ StageZebes:
 
 StageHyruleWallpaper:
   type: SSB64:RELOC
-  offset: 0x369EF0
+  offset: 0x3917D8
   size: 0x2B24
   symbol: StageHyruleWallpaper
   file_id: 91
@@ -62,7 +62,7 @@ StageHyruleWallpaper:
 
 StageJungle:
   type: SSB64:RELOC
-  offset: 0x36CA14
+  offset: 0x3942FC
   size: 0x7388
   symbol: StageJungle
   file_id: 92
@@ -71,7 +71,7 @@ StageJungle:
 
 StageYoshi:
   type: SSB64:RELOC
-  offset: 0x373D9C
+  offset: 0x39B684
   size: 0x175A0
   symbol: StageYoshi
   file_id: 93
@@ -80,7 +80,7 @@ StageYoshi:
 
 StagePokemon:
   type: SSB64:RELOC
-  offset: 0x38B33C
+  offset: 0x3B2C24
   size: 0x12D98
   symbol: StagePokemon
   file_id: 94
@@ -89,7 +89,7 @@ StagePokemon:
 
 StageCastle:
   type: SSB64:RELOC
-  offset: 0x39E0D4
+  offset: 0x3C59BC
   size: 0xFB3C
   symbol: StageCastle
   file_id: 95
@@ -98,7 +98,7 @@ StageCastle:
 
 StageYamabukiWallpaper:
   type: SSB64:RELOC
-  offset: 0x3ADC10
+  offset: 0x3D54F8
   size: 0x9A18
   symbol: StageYamabukiWallpaper
   file_id: 96
@@ -107,7 +107,7 @@ StageYamabukiWallpaper:
 
 StageInishieWallpaper:
   type: SSB64:RELOC
-  offset: 0x3B7628
+  offset: 0x3DEF10
   size: 0x12EA0
   symbol: StageInishieWallpaper
   file_id: 97
@@ -116,7 +116,7 @@ StageInishieWallpaper:
 
 StageLastWallpaper:
   type: SSB64:RELOC
-  offset: 0x3CA4C8
+  offset: 0x3F1DB0
   size: 0xFA2C
   symbol: StageLastWallpaper
   file_id: 98
@@ -125,7 +125,7 @@ StageLastWallpaper:
 
 StageSector:
   type: SSB64:RELOC
-  offset: 0x3D9EF4
+  offset: 0x4017DC
   size: 0xC9F0
   symbol: StageSector
   file_id: 99
@@ -134,7 +134,7 @@ StageSector:
 
 StageMetalWallpaper:
   type: SSB64:RELOC
-  offset: 0x41E6DA
+  offset: 0x445FC2
   size: 0xB3C
   symbol: StageMetalWallpaper
   file_id: 119
@@ -143,7 +143,7 @@ StageMetalWallpaper:
 
 GRPupupuMap:
   type: SSB64:RELOC
-  offset: 0x640346
+  offset: 0x66F810
   size: 0xB6
   symbol: GRPupupuMap
   file_id: 255
@@ -152,8 +152,8 @@ GRPupupuMap:
 
 GRPupupuSmallMap:
   type: SSB64:RELOC
-  offset: 0x6403FC
-  size: 0x88
+  offset: 0x66F8C6
+  size: 0xAC
   symbol: GRPupupuSmallMap
   file_id: 256
   # compressed: True
@@ -161,7 +161,7 @@ GRPupupuSmallMap:
 
 GRZebesMap:
   type: SSB64:RELOC
-  offset: 0x640484
+  offset: 0x66F972
   size: 0xAE
   symbol: GRZebesMap
   file_id: 257
@@ -170,8 +170,8 @@ GRZebesMap:
 
 GRPupupuTestMap:
   type: SSB64:RELOC
-  offset: 0x640532
-  size: 0x9A
+  offset: 0x66FA20
+  size: 0xC2
   symbol: GRPupupuTestMap
   file_id: 258
   # compressed: True
@@ -179,7 +179,7 @@ GRPupupuTestMap:
 
 GRCastleMap:
   type: SSB64:RELOC
-  offset: 0x6405CC
+  offset: 0x66FAE2
   size: 0xA6
   symbol: GRCastleMap
   file_id: 259
@@ -188,7 +188,7 @@ GRCastleMap:
 
 GRInishieMap:
   type: SSB64:RELOC
-  offset: 0x640672
+  offset: 0x66FB88
   size: 0x120
   symbol: GRInishieMap
   file_id: 260
@@ -197,7 +197,7 @@ GRInishieMap:
 
 GRJungleMap:
   type: SSB64:RELOC
-  offset: 0x640792
+  offset: 0x66FCA8
   size: 0xAC
   symbol: GRJungleMap
   file_id: 261
@@ -206,7 +206,7 @@ GRJungleMap:
 
 GRSectorMap:
   type: SSB64:RELOC
-  offset: 0x64083E
+  offset: 0x66FD54
   size: 0xD6
   symbol: GRSectorMap
   file_id: 262
@@ -215,7 +215,7 @@ GRSectorMap:
 
 GRYosterMap:
   type: SSB64:RELOC
-  offset: 0x640914
+  offset: 0x66FE2A
   size: 0xAC
   symbol: GRYosterMap
   file_id: 263
@@ -224,7 +224,7 @@ GRYosterMap:
 
 GRYamabukiMap:
   type: SSB64:RELOC
-  offset: 0x6409C0
+  offset: 0x66FED6
   size: 0x20A
   symbol: GRYamabukiMap
   file_id: 264
@@ -233,7 +233,7 @@ GRYamabukiMap:
 
 GRHyruleMap:
   type: SSB64:RELOC
-  offset: 0x640BCA
+  offset: 0x6700E0
   size: 0xA6
   symbol: GRHyruleMap
   file_id: 265
@@ -242,7 +242,7 @@ GRHyruleMap:
 
 GRLastMap:
   type: SSB64:RELOC
-  offset: 0x640C70
+  offset: 0x670186
   size: 0x7C
   symbol: GRLastMap
   file_id: 266
@@ -251,7 +251,7 @@ GRLastMap:
 
 GRExplainMap:
   type: SSB64:RELOC
-  offset: 0x640CEC
+  offset: 0x670202
   size: 0x7C
   symbol: GRExplainMap
   file_id: 267
@@ -260,7 +260,7 @@ GRExplainMap:
 
 GRZakoMap:
   type: SSB64:RELOC
-  offset: 0x640D68
+  offset: 0x67027E
   size: 0x92
   symbol: GRZakoMap
   file_id: 268
@@ -269,7 +269,7 @@ GRZakoMap:
 
 GRMetalMap:
   type: SSB64:RELOC
-  offset: 0x640DFA
+  offset: 0x670310
   size: 0xD0
   symbol: GRMetalMap
   file_id: 269
@@ -278,7 +278,7 @@ GRMetalMap:
 
 GRYosterSmallMap:
   type: SSB64:RELOC
-  offset: 0x640ECA
+  offset: 0x6703E0
   size: 0xAA
   symbol: GRYosterSmallMap
   file_id: 270
@@ -287,7 +287,7 @@ GRYosterSmallMap:
 
 GRBonus1MarioMap:
   type: SSB64:RELOC
-  offset: 0x640F74
+  offset: 0x67048A
   size: 0x7A
   symbol: GRBonus1MarioMap
   file_id: 271
@@ -296,7 +296,7 @@ GRBonus1MarioMap:
 
 GRBonus1FoxMap:
   type: SSB64:RELOC
-  offset: 0x640FEE
+  offset: 0x670504
   size: 0x7E
   symbol: GRBonus1FoxMap
   file_id: 272
@@ -305,7 +305,7 @@ GRBonus1FoxMap:
 
 GRBonus1DonkeyMap:
   type: SSB64:RELOC
-  offset: 0x64106C
+  offset: 0x670582
   size: 0x7E
   symbol: GRBonus1DonkeyMap
   file_id: 273
@@ -314,7 +314,7 @@ GRBonus1DonkeyMap:
 
 GRBonus1SamusMap:
   type: SSB64:RELOC
-  offset: 0x6410EA
+  offset: 0x670600
   size: 0x82
   symbol: GRBonus1SamusMap
   file_id: 274
@@ -323,7 +323,7 @@ GRBonus1SamusMap:
 
 GRBonus1LuigiMap:
   type: SSB64:RELOC
-  offset: 0x64116C
+  offset: 0x670682
   size: 0x82
   symbol: GRBonus1LuigiMap
   file_id: 275
@@ -332,7 +332,7 @@ GRBonus1LuigiMap:
 
 GRBonus1LinkMap:
   type: SSB64:RELOC
-  offset: 0x6411EE
+  offset: 0x670704
   size: 0x7E
   symbol: GRBonus1LinkMap
   file_id: 276
@@ -341,7 +341,7 @@ GRBonus1LinkMap:
 
 GRBonus1YoshiMap:
   type: SSB64:RELOC
-  offset: 0x64126C
+  offset: 0x670782
   size: 0x82
   symbol: GRBonus1YoshiMap
   file_id: 277
@@ -350,7 +350,7 @@ GRBonus1YoshiMap:
 
 GRBonus1CaptainMap:
   type: SSB64:RELOC
-  offset: 0x6412EE
+  offset: 0x670804
   size: 0x7A
   symbol: GRBonus1CaptainMap
   file_id: 278
@@ -359,7 +359,7 @@ GRBonus1CaptainMap:
 
 GRBonus1KirbyMap:
   type: SSB64:RELOC
-  offset: 0x641368
+  offset: 0x67087E
   size: 0x7E
   symbol: GRBonus1KirbyMap
   file_id: 279
@@ -368,7 +368,7 @@ GRBonus1KirbyMap:
 
 GRBonus1PikachuMap:
   type: SSB64:RELOC
-  offset: 0x6413E6
+  offset: 0x6708FC
   size: 0x7E
   symbol: GRBonus1PikachuMap
   file_id: 280
@@ -377,7 +377,7 @@ GRBonus1PikachuMap:
 
 GRBonus1PurinMap:
   type: SSB64:RELOC
-  offset: 0x641464
+  offset: 0x67097A
   size: 0x7E
   symbol: GRBonus1PurinMap
   file_id: 281
@@ -386,7 +386,7 @@ GRBonus1PurinMap:
 
 GRBonus1NessMap:
   type: SSB64:RELOC
-  offset: 0x6414E2
+  offset: 0x6709F8
   size: 0x82
   symbol: GRBonus1NessMap
   file_id: 282
@@ -395,7 +395,7 @@ GRBonus1NessMap:
 
 GRBonus2MarioMap:
   type: SSB64:RELOC
-  offset: 0x641564
+  offset: 0x670A7A
   size: 0x7A
   symbol: GRBonus2MarioMap
   file_id: 283
@@ -404,7 +404,7 @@ GRBonus2MarioMap:
 
 GRBonus2FoxMap:
   type: SSB64:RELOC
-  offset: 0x6415DE
+  offset: 0x670AF4
   size: 0x8C
   symbol: GRBonus2FoxMap
   file_id: 284
@@ -413,7 +413,7 @@ GRBonus2FoxMap:
 
 GRBonus2DonkeyMap:
   type: SSB64:RELOC
-  offset: 0x64166A
+  offset: 0x670B80
   size: 0x76
   symbol: GRBonus2DonkeyMap
   file_id: 285
@@ -422,7 +422,7 @@ GRBonus2DonkeyMap:
 
 GRBonus2SamusMap:
   type: SSB64:RELOC
-  offset: 0x6416E0
+  offset: 0x670BF6
   size: 0x84
   symbol: GRBonus2SamusMap
   file_id: 286
@@ -431,7 +431,7 @@ GRBonus2SamusMap:
 
 GRBonus2LuigiMap:
   type: SSB64:RELOC
-  offset: 0x641764
+  offset: 0x670C7A
   size: 0x7A
   symbol: GRBonus2LuigiMap
   file_id: 287
@@ -440,7 +440,7 @@ GRBonus2LuigiMap:
 
 GRBonus2LinkMap:
   type: SSB64:RELOC
-  offset: 0x6417DE
+  offset: 0x670CF4
   size: 0x7E
   symbol: GRBonus2LinkMap
   file_id: 288
@@ -449,7 +449,7 @@ GRBonus2LinkMap:
 
 GRBonus2YoshiMap:
   type: SSB64:RELOC
-  offset: 0x64185C
+  offset: 0x670D72
   size: 0x76
   symbol: GRBonus2YoshiMap
   file_id: 289
@@ -458,7 +458,7 @@ GRBonus2YoshiMap:
 
 GRBonus2CaptainMap:
   type: SSB64:RELOC
-  offset: 0x6418D2
+  offset: 0x670DE8
   size: 0x76
   symbol: GRBonus2CaptainMap
   file_id: 290
@@ -467,7 +467,7 @@ GRBonus2CaptainMap:
 
 GRBonus2KirbyMap:
   type: SSB64:RELOC
-  offset: 0x641948
+  offset: 0x670E5E
   size: 0x84
   symbol: GRBonus2KirbyMap
   file_id: 291
@@ -476,7 +476,7 @@ GRBonus2KirbyMap:
 
 GRBonus2PikachuMap:
   type: SSB64:RELOC
-  offset: 0x6419CC
+  offset: 0x670EE2
   size: 0x7A
   symbol: GRBonus2PikachuMap
   file_id: 292
@@ -485,7 +485,7 @@ GRBonus2PikachuMap:
 
 GRBonus2PurinMap:
   type: SSB64:RELOC
-  offset: 0x641A46
+  offset: 0x670F5C
   size: 0x78
   symbol: GRBonus2PurinMap
   file_id: 293
@@ -494,7 +494,7 @@ GRBonus2PurinMap:
 
 GRBonus2NessMap:
   type: SSB64:RELOC
-  offset: 0x641ABE
+  offset: 0x670FD4
   size: 0x84
   symbol: GRBonus2NessMap
   file_id: 294
@@ -503,7 +503,7 @@ GRBonus2NessMap:
 
 GRBonus3Map:
   type: SSB64:RELOC
-  offset: 0x641B42
+  offset: 0x671058
   size: 0xBA
   symbol: GRBonus3Map
   file_id: 295

@@ -8,16 +8,16 @@
 
 FTEmblemSprites:
   type: SSB64:RELOC
-  offset: 0x218D70
-  size: 0xE6C
+  offset: 0x237128
+  size: 0x3FE0
   symbol: FTEmblemSprites
   file_id: 20
   # compressed: True
-  # decompressed_size: 0x3FC0
+  # decompressed_size: 0xF858
 
 FTStocksZako:
   type: SSB64:RELOC
-  offset: 0x21ADB4
+  offset: 0x23C5A0
   size: 0x98
   symbol: FTStocksZako
   file_id: 25
@@ -26,16 +26,16 @@ FTStocksZako:
 
 FTEmblemModels:
   type: SSB64:RELOC
-  offset: 0x23B230
-  size: 0x1D18
+  offset: 0x25F948
+  size: 0x4C30
   symbol: FTEmblemModels
   file_id: 35
   # compressed: True
-  # decompressed_size: 0x5AE0
+  # decompressed_size: 0xDD30
 
 FTManagerCommon:
   type: SSB64:RELOC
-  offset: 0x446448
+  offset: 0x46DEE2
   size: 0x19C
   symbol: FTManagerCommon
   file_id: 163

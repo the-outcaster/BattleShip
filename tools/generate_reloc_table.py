@@ -14,7 +14,8 @@ from pathlib import Path
 
 YAML_DIR = Path("yamls/us")
 OUTPUT   = Path("port/resource/RelocFileTable.cpp")
-FILE_COUNT = 2132
+FILE_COUNT = 5455
+#2132
 
 
 def parse_yaml_entries(yaml_dir: Path) -> dict[int, str]:

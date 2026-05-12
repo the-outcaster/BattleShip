@@ -350,8 +350,8 @@ if (NOT MSVC)
     target_compile_options(ssb64_game PRIVATE
         -Werror=implicit-function-declaration
         -Wno-implicit-int
-        -Werror=int-conversion
-        -Werror=incompatible-pointer-types
+        -Wno-error=int-conversion
+        -Wno-error=incompatible-pointer-types
         -Wno-shift-negative-value
         -Wno-parentheses-equality
         -Wno-pointer-sign

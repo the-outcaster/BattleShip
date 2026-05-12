@@ -8,7 +8,7 @@
 
 MNCommon:
   type: SSB64:RELOC
-  offset: 0x1B2C6C
+  offset: 0x1BC830
   size: 0x57A0
   symbol: MNCommon
   file_id: 0
@@ -17,25 +17,25 @@ MNCommon:
 
 MNMain:
   type: SSB64:RELOC
-  offset: 0x1B840C
-  size: 0x31E0
+  offset: 0x1C1FD0
+  size: 0x3B80
   symbol: MNMain
   file_id: 1
   # compressed: True
-  # decompressed_size: 0x8540
+  # decompressed_size: 0x9A00
 
 MN1P:
   type: SSB64:RELOC
-  offset: 0x1BB5EC
-  size: 0x26A8
+  offset: 0x1C5B50
+  size: 0x3720
   symbol: MN1P
   file_id: 2
   # compressed: True
-  # decompressed_size: 0x63D0
+  # decompressed_size: 0x8BD0
 
 MNIndex:
   type: SSB64:RELOC
-  offset: 0x1BDC94
+  offset: 0x1C9270
   size: 0x2B1C
   symbol: MNIndex
   file_id: 3
@@ -44,7 +44,7 @@ MNIndex:
 
 MNOption:
   type: SSB64:RELOC
-  offset: 0x1C07B0
+  offset: 0x1CBD8C
   size: 0x3FDC
   symbol: MNOption
   file_id: 4
@@ -53,25 +53,25 @@ MNOption:
 
 MNData:
   type: SSB64:RELOC
-  offset: 0x1C478C
-  size: 0x2148
+  offset: 0x1CFD68
+  size: 0x23C0
   symbol: MNData
   file_id: 5
   # compressed: True
-  # decompressed_size: 0x4AC0
+  # decompressed_size: 0x4F40
 
 MNVSMode:
   type: SSB64:RELOC
-  offset: 0x1C68D4
-  size: 0x301C
+  offset: 0x1D2128
+  size: 0x43D0
   symbol: MNVSMode
   file_id: 6
   # compressed: True
-  # decompressed_size: 0x6160
+  # decompressed_size: 0x93F8
 
 MNVSOptions:
   type: SSB64:RELOC
-  offset: 0x1C98F0
+  offset: 0x1D64F8
   size: 0x2964
   symbol: MNVSOptions
   file_id: 7
@@ -80,16 +80,16 @@ MNVSOptions:
 
 MNVSItemSwitch:
   type: SSB64:RELOC
-  offset: 0x1CC254
-  size: 0x2FDC
+  offset: 0x1D8E5C
+  size: 0x3790
   symbol: MNVSItemSwitch
   file_id: 8
   # compressed: True
-  # decompressed_size: 0x98A0
+  # decompressed_size: 0xBDC0
 
 MNMessage:
   type: SSB64:RELOC
-  offset: 0x1CF230
+  offset: 0x1DC5EC
   size: 0x1E14
   symbol: MNMessage
   file_id: 9
@@ -98,7 +98,7 @@ MNMessage:
 
 MNScreenAdjust:
   type: SSB64:RELOC
-  offset: 0x1F5090
+  offset: 0x2087A0
   size: 0x7E4
   symbol: MNScreenAdjust
   file_id: 15
@@ -107,7 +107,7 @@ MNScreenAdjust:
 
 MNCharacters:
   type: SSB64:RELOC
-  offset: 0x1F5874
+  offset: 0x208F84
   size: 0x901C
   symbol: MNCharacters
   file_id: 16
@@ -116,25 +116,25 @@ MNCharacters:
 
 MNPlayersCommon:
   type: SSB64:RELOC
-  offset: 0x1FE890
-  size: 0x792C
+  offset: 0x211FA0
+  size: 0x118E0
   symbol: MNPlayersCommon
   file_id: 17
   # compressed: True
-  # decompressed_size: 0x11610
+  # decompressed_size: 0x28008
 
 MNPlayersGameModes:
   type: SSB64:RELOC
-  offset: 0x2061BC
-  size: 0x79C
+  offset: 0x223880
+  size: 0x1490
   symbol: MNPlayersGameModes
   file_id: 18
   # compressed: True
-  # decompressed_size: 0x10A0
+  # decompressed_size: 0x3130
 
 MNPlayersPortraits:
   type: SSB64:RELOC
-  offset: 0x206958
+  offset: 0x224D10
   size: 0x12418
   symbol: MNPlayersPortraits
   file_id: 19
@@ -143,7 +143,7 @@ MNPlayersPortraits:
 
 MNSelectCommon:
   type: SSB64:RELOC
-  offset: 0x219BDC
+  offset: 0x23B108
   size: 0x2F8
   symbol: MNSelectCommon
   file_id: 21
@@ -152,7 +152,7 @@ MNSelectCommon:
 
 MNPlayersSpotlight:
   type: SSB64:RELOC
-  offset: 0x219ED4
+  offset: 0x23B400
   size: 0x1DC
   symbol: MNPlayersSpotlight
   file_id: 22
@@ -161,16 +161,16 @@ MNPlayersSpotlight:
 
 MNPlayers1PMode:
   type: SSB64:RELOC
-  offset: 0x21A0B0
-  size: 0x990
+  offset: 0x23B5DC
+  size: 0xC50
   symbol: MNPlayers1PMode
   file_id: 23
   # compressed: True
-  # decompressed_size: 0x32F0
+  # decompressed_size: 0x3C50
 
 MNPlayersDifficulty:
   type: SSB64:RELOC
-  offset: 0x21AA40
+  offset: 0x23C22C
   size: 0x374
   symbol: MNPlayersDifficulty
   file_id: 24
@@ -179,7 +179,7 @@ MNPlayersDifficulty:
 
 MNMaps:
   type: SSB64:RELOC
-  offset: 0x22A9CC
+  offset: 0x24ECDC
   size: 0x811C
   symbol: MNMaps
   file_id: 30
@@ -188,7 +188,7 @@ MNMaps:
 
 MNVSRecordMain:
   type: SSB64:RELOC
-  offset: 0x232AE8
+  offset: 0x256DF8
   size: 0x2E8C
   symbol: MNVSRecordMain
   file_id: 31
@@ -197,7 +197,7 @@ MNVSRecordMain:
 
 MNDataCommon:
   type: SSB64:RELOC
-  offset: 0x235974
+  offset: 0x259C84
   size: 0x18C
   symbol: MNDataCommon
   file_id: 32
@@ -206,7 +206,7 @@ MNDataCommon:
 
 MNCommonFonts:
   type: SSB64:RELOC
-  offset: 0x235B00
+  offset: 0x259E10
   size: 0x338
   symbol: MNCommonFonts
   file_id: 33
@@ -215,16 +215,16 @@ MNCommonFonts:
 
 MNVSResults:
   type: SSB64:RELOC
-  offset: 0x235E38
-  size: 0x53F8
+  offset: 0x25A148
+  size: 0x5800
   symbol: MNVSResults
   file_id: 34
   # compressed: True
-  # decompressed_size: 0xE2F0
+  # decompressed_size: 0xEA20
 
 MNBackupClear:
   type: SSB64:RELOC
-  offset: 0x2F6820
+  offset: 0x31E1B0
   size: 0x33F8
   symbol: MNBackupClear
   file_id: 77
@@ -233,7 +233,7 @@ MNBackupClear:
 
 MNBackupClearHeaderOption:
   type: SSB64:RELOC
-  offset: 0x2F9C18
+  offset: 0x3215A8
   size: 0x144
   symbol: MNBackupClearHeaderOption
   file_id: 78
@@ -242,7 +242,7 @@ MNBackupClearHeaderOption:
 
 MN1PContinue:
   type: SSB64:RELOC
-  offset: 0x2F9D5C
+  offset: 0x3216EC
   size: 0x9EE8
   symbol: MN1PContinue
   file_id: 79
@@ -251,16 +251,16 @@ MN1PContinue:
 
 MNTitle:
   type: SSB64:RELOC
-  offset: 0x4474F8
-  size: 0x7BC0
+  offset: 0x46F9DA
+  size: 0xDF00
   symbol: MNTitle
   file_id: 167
   # compressed: True
-  # decompressed_size: 0x290A0
+  # decompressed_size: 0x3DCC8
 
 MNTitleFireAnim:
   type: SSB64:RELOC
-  offset: 0x44F0B8
+  offset: 0x47D8DA
   size: 0x15F4C
   symbol: MNTitleFireAnim
   file_id: 168
@@ -269,7 +269,7 @@ MNTitleFireAnim:
 
 MNNoController:
   type: SSB64:RELOC
-  offset: 0x465004
+  offset: 0x493826
   size: 0x19E4
   symbol: MNNoController
   file_id: 169
@@ -278,7 +278,7 @@ MNNoController:
 
 MNCongraKirbyBottom:
   type: SSB64:RELOC
-  offset: 0x4669E8
+  offset: 0x49520A
   size: 0x13690
   symbol: MNCongraKirbyBottom
   file_id: 170
@@ -287,7 +287,7 @@ MNCongraKirbyBottom:
 
 MNCongraKirbyTop:
   type: SSB64:RELOC
-  offset: 0x47A078
+  offset: 0x4A889A
   size: 0x15088
   symbol: MNCongraKirbyTop
   file_id: 171
@@ -296,7 +296,7 @@ MNCongraKirbyTop:
 
 MNCongraYoshiBottom:
   type: SSB64:RELOC
-  offset: 0x48F100
+  offset: 0x4BD922
   size: 0x19F20
   symbol: MNCongraYoshiBottom
   file_id: 172
@@ -305,7 +305,7 @@ MNCongraYoshiBottom:
 
 MNCongraYoshiTop:
   type: SSB64:RELOC
-  offset: 0x4A9020
+  offset: 0x4D7842
   size: 0x1A2DC
   symbol: MNCongraYoshiTop
   file_id: 173
@@ -314,7 +314,7 @@ MNCongraYoshiTop:
 
 MNCongraPikachuBottom:
   type: SSB64:RELOC
-  offset: 0x4C32FC
+  offset: 0x4F1B1E
   size: 0x12790
   symbol: MNCongraPikachuBottom
   file_id: 174
@@ -323,7 +323,7 @@ MNCongraPikachuBottom:
 
 MNCongraPikachuTop:
   type: SSB64:RELOC
-  offset: 0x4D5A8C
+  offset: 0x5042AE
   size: 0x122F4
   symbol: MNCongraPikachuTop
   file_id: 175
@@ -332,7 +332,7 @@ MNCongraPikachuTop:
 
 MNCongraSamusBottom:
   type: SSB64:RELOC
-  offset: 0x4E7D80
+  offset: 0x5165A2
   size: 0x66C8
   symbol: MNCongraSamusBottom
   file_id: 176
@@ -341,7 +341,7 @@ MNCongraSamusBottom:
 
 MNCongraSamusTop:
   type: SSB64:RELOC
-  offset: 0x4EE448
+  offset: 0x51CC6A
   size: 0x4484
   symbol: MNCongraSamusTop
   file_id: 177
@@ -350,7 +350,7 @@ MNCongraSamusTop:
 
 MNCongraLinkBottom:
   type: SSB64:RELOC
-  offset: 0x4F28CC
+  offset: 0x5210EE
   size: 0x15598
   symbol: MNCongraLinkBottom
   file_id: 178
@@ -359,7 +359,7 @@ MNCongraLinkBottom:
 
 MNCongraLinkTop:
   type: SSB64:RELOC
-  offset: 0x507E64
+  offset: 0x536686
   size: 0x122AC
   symbol: MNCongraLinkTop
   file_id: 179
@@ -368,7 +368,7 @@ MNCongraLinkTop:
 
 MNCongraPurinBottom:
   type: SSB64:RELOC
-  offset: 0x51A110
+  offset: 0x548932
   size: 0x1A384
   symbol: MNCongraPurinBottom
   file_id: 180
@@ -377,7 +377,7 @@ MNCongraPurinBottom:
 
 MNCongraPurinTop:
   type: SSB64:RELOC
-  offset: 0x534494
+  offset: 0x562CB6
   size: 0x1B2D8
   symbol: MNCongraPurinTop
   file_id: 181
@@ -386,7 +386,7 @@ MNCongraPurinTop:
 
 MNCongraCaptainBottom:
   type: SSB64:RELOC
-  offset: 0x54F76C
+  offset: 0x57DF8E
   size: 0x15BD8
   symbol: MNCongraCaptainBottom
   file_id: 182
@@ -395,7 +395,7 @@ MNCongraCaptainBottom:
 
 MNCongraCaptainTop:
   type: SSB64:RELOC
-  offset: 0x565344
+  offset: 0x593B66
   size: 0x11A50
   symbol: MNCongraCaptainTop
   file_id: 183
@@ -404,7 +404,7 @@ MNCongraCaptainTop:
 
 MNCongraDonkeyBottom:
   type: SSB64:RELOC
-  offset: 0x576D94
+  offset: 0x5A55B6
   size: 0x1A218
   symbol: MNCongraDonkeyBottom
   file_id: 184
@@ -413,7 +413,7 @@ MNCongraDonkeyBottom:
 
 MNCongraDonkeyTop:
   type: SSB64:RELOC
-  offset: 0x590FAC
+  offset: 0x5BF7CE
   size: 0x171A8
   symbol: MNCongraDonkeyTop
   file_id: 185
@@ -422,7 +422,7 @@ MNCongraDonkeyTop:
 
 MNCongraMarioBottom:
   type: SSB64:RELOC
-  offset: 0x5A8154
+  offset: 0x5D6976
   size: 0xBCAC
   symbol: MNCongraMarioBottom
   file_id: 186
@@ -431,7 +431,7 @@ MNCongraMarioBottom:
 
 MNCongraMarioTop:
   type: SSB64:RELOC
-  offset: 0x5B3E00
+  offset: 0x5E2622
   size: 0xC910
   symbol: MNCongraMarioTop
   file_id: 187
@@ -440,7 +440,7 @@ MNCongraMarioTop:
 
 MNCongraLuigiBottom:
   type: SSB64:RELOC
-  offset: 0x5C0710
+  offset: 0x5EEF32
   size: 0xDF1C
   symbol: MNCongraLuigiBottom
   file_id: 188
@@ -449,7 +449,7 @@ MNCongraLuigiBottom:
 
 MNCongraLuigiTop:
   type: SSB64:RELOC
-  offset: 0x5CE62C
+  offset: 0x5FCE4E
   size: 0xE72C
   symbol: MNCongraLuigiTop
   file_id: 189
@@ -458,7 +458,7 @@ MNCongraLuigiTop:
 
 MNCongraFoxBottom:
   type: SSB64:RELOC
-  offset: 0x5DCD58
+  offset: 0x60B57A
   size: 0x138E4
   symbol: MNCongraFoxBottom
   file_id: 190
@@ -467,7 +467,7 @@ MNCongraFoxBottom:
 
 MNCongraFoxTop:
   type: SSB64:RELOC
-  offset: 0x5F063C
+  offset: 0x61EE5E
   size: 0x108CC
   symbol: MNCongraFoxTop
   file_id: 191
@@ -476,7 +476,7 @@ MNCongraFoxTop:
 
 MNCongraNessBottom:
   type: SSB64:RELOC
-  offset: 0x600F08
+  offset: 0x62F72A
   size: 0x13684
   symbol: MNCongraNessBottom
   file_id: 192
@@ -485,7 +485,7 @@ MNCongraNessBottom:
 
 MNCongraNessTop:
   type: SSB64:RELOC
-  offset: 0x61458C
+  offset: 0x642DAE
   size: 0xEA58
   symbol: MNCongraNessTop
   file_id: 193
@@ -494,7 +494,7 @@ MNCongraNessTop:
 
 MNSoundTest:
   type: SSB64:RELOC
-  offset: 0x625880
+  offset: 0x65468E
   size: 0xE78
   symbol: MNSoundTest
   file_id: 196

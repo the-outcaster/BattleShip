@@ -8,16 +8,16 @@
 
 FoxSpecial3:
   type: SSB64:RELOC
-  offset: 0x444836
-  size: 0x185A
+  offset: 0x46C11A
+  size: 0x1A10
   symbol: FoxSpecial3
   file_id: 161
   # compressed: True
-  # decompressed_size: 0x2F80
+  # decompressed_size: 0x3360
 
 MarioMainMotion:
   type: SSB64:RELOC
-  offset: 0x632B9C
+  offset: 0x661A52
   size: 0x866
   symbol: MarioMainMotion
   file_id: 202
@@ -26,7 +26,7 @@ MarioMainMotion:
 
 MarioMain:
   type: SSB64:RELOC
-  offset: 0x633402
+  offset: 0x6622B8
   size: 0x318
   symbol: MarioMain
   file_id: 203
@@ -35,7 +35,7 @@ MarioMain:
 
 MarioSpecial1:
   type: SSB64:RELOC
-  offset: 0x63371A
+  offset: 0x6625D0
   size: 0x34
   symbol: MarioSpecial1
   file_id: 204
@@ -44,7 +44,7 @@ MarioSpecial1:
 
 MMarioMainMotion:
   type: SSB64:RELOC
-  offset: 0x63374E
+  offset: 0x662604
   size: 0x74
   symbol: MMarioMainMotion
   file_id: 205
@@ -53,25 +53,25 @@ MMarioMainMotion:
 
 MMarioMain:
   type: SSB64:RELOC
-  offset: 0x6337C2
-  size: 0x218
+  offset: 0x662678
+  size: 0x256
   symbol: MMarioMain
   file_id: 206
   # compressed: True
-  # decompressed_size: 0x5F0
+  # decompressed_size: 0x610
 
 NMarioMain:
   type: SSB64:RELOC
-  offset: 0x6339DA
-  size: 0x1FA
+  offset: 0x6628CE
+  size: 0x240
   symbol: NMarioMain
   file_id: 207
   # compressed: True
-  # decompressed_size: 0x5E0
+  # decompressed_size: 0x600
 
 FoxMainMotion:
   type: SSB64:RELOC
-  offset: 0x633BD4
+  offset: 0x662B0E
   size: 0x86A
   symbol: FoxMainMotion
   file_id: 208
@@ -80,7 +80,7 @@ FoxMainMotion:
 
 FoxMain:
   type: SSB64:RELOC
-  offset: 0x63443E
+  offset: 0x663378
   size: 0x32E
   symbol: FoxMain
   file_id: 209
@@ -89,7 +89,7 @@ FoxMain:
 
 FoxSpecial1:
   type: SSB64:RELOC
-  offset: 0x63476C
+  offset: 0x6636A6
   size: 0x2E
   symbol: FoxSpecial1
   file_id: 210
@@ -98,16 +98,16 @@ FoxSpecial1:
 
 NFoxMain:
   type: SSB64:RELOC
-  offset: 0x63479A
-  size: 0x206
+  offset: 0x6636D4
+  size: 0x250
   symbol: NFoxMain
   file_id: 211
   # compressed: True
-  # decompressed_size: 0x5F0
+  # decompressed_size: 0x610
 
 DonkeyMainMotion:
   type: SSB64:RELOC
-  offset: 0x6349A0
+  offset: 0x663924
   size: 0x8D6
   symbol: DonkeyMainMotion
   file_id: 212
@@ -116,7 +116,7 @@ DonkeyMainMotion:
 
 DonkeyMain:
   type: SSB64:RELOC
-  offset: 0x635276
+  offset: 0x6641FA
   size: 0x3F6
   symbol: DonkeyMain
   file_id: 213
@@ -125,16 +125,16 @@ DonkeyMain:
 
 NDonkeyMain:
   type: SSB64:RELOC
-  offset: 0x63566C
-  size: 0x206
+  offset: 0x6645F0
+  size: 0x250
   symbol: NDonkeyMain
   file_id: 214
   # compressed: True
-  # decompressed_size: 0x5E0
+  # decompressed_size: 0x600
 
 GDonkeyMain:
   type: SSB64:RELOC
-  offset: 0x635872
+  offset: 0x664840
   size: 0x374
   symbol: GDonkeyMain
   file_id: 215
@@ -143,7 +143,7 @@ GDonkeyMain:
 
 SamusMainMotion:
   type: SSB64:RELOC
-  offset: 0x635BE6
+  offset: 0x664BB4
   size: 0x992
   symbol: SamusMainMotion
   file_id: 216
@@ -152,7 +152,7 @@ SamusMainMotion:
 
 SamusMain:
   type: SSB64:RELOC
-  offset: 0x636578
+  offset: 0x665546
   size: 0x46E
   symbol: SamusMain
   file_id: 217
@@ -161,7 +161,7 @@ SamusMain:
 
 SamusSpecial1:
   type: SSB64:RELOC
-  offset: 0x6369E6
+  offset: 0x6659B4
   size: 0x26
   symbol: SamusSpecial1
   file_id: 218
@@ -170,16 +170,16 @@ SamusSpecial1:
 
 NSamusMain:
   type: SSB64:RELOC
-  offset: 0x636A0C
-  size: 0x25A
+  offset: 0x6659DA
+  size: 0x2E4
   symbol: NSamusMain
   file_id: 219
   # compressed: True
-  # decompressed_size: 0x710
+  # decompressed_size: 0x720
 
 LuigiMainMotion:
   type: SSB64:RELOC
-  offset: 0x636C66
+  offset: 0x665CBE
   size: 0x886
   symbol: LuigiMainMotion
   file_id: 220
@@ -188,7 +188,7 @@ LuigiMainMotion:
 
 LuigiMain:
   type: SSB64:RELOC
-  offset: 0x6374EC
+  offset: 0x666544
   size: 0x394
   symbol: LuigiMain
   file_id: 221
@@ -197,7 +197,7 @@ LuigiMain:
 
 LuigiSpecial1:
   type: SSB64:RELOC
-  offset: 0x637880
+  offset: 0x6668D8
   size: 0x34
   symbol: LuigiSpecial1
   file_id: 222
@@ -206,16 +206,16 @@ LuigiSpecial1:
 
 NLuigiMain:
   type: SSB64:RELOC
-  offset: 0x6378B4
-  size: 0x1FE
+  offset: 0x66690C
+  size: 0x250
   symbol: NLuigiMain
   file_id: 223
   # compressed: True
-  # decompressed_size: 0x5E0
+  # decompressed_size: 0x600
 
 LinkMainMotion:
   type: SSB64:RELOC
-  offset: 0x637AB2
+  offset: 0x666B5C
   size: 0x952
   symbol: LinkMainMotion
   file_id: 224
@@ -224,7 +224,7 @@ LinkMainMotion:
 
 LinkMain:
   type: SSB64:RELOC
-  offset: 0x638404
+  offset: 0x6674AE
   size: 0x4CA
   symbol: LinkMain
   file_id: 225
@@ -233,7 +233,7 @@ LinkMain:
 
 LinkSpecial1:
   type: SSB64:RELOC
-  offset: 0x6388CE
+  offset: 0x667978
   size: 0x38
   symbol: LinkSpecial1
   file_id: 226
@@ -242,16 +242,16 @@ LinkSpecial1:
 
 NLinkMain:
   type: SSB64:RELOC
-  offset: 0x638906
-  size: 0x20E
+  offset: 0x6679B0
+  size: 0x250
   symbol: NLinkMain
   file_id: 227
   # compressed: True
-  # decompressed_size: 0x620
+  # decompressed_size: 0x640
 
 KirbyMainMotion:
   type: SSB64:RELOC
-  offset: 0x638B14
+  offset: 0x667C00
   size: 0xD1E
   symbol: KirbyMainMotion
   file_id: 228
@@ -260,7 +260,7 @@ KirbyMainMotion:
 
 KirbyMain:
   type: SSB64:RELOC
-  offset: 0x639832
+  offset: 0x66891E
   size: 0x5B8
   symbol: KirbyMain
   file_id: 229
@@ -269,16 +269,16 @@ KirbyMain:
 
 NKirbyMain:
   type: SSB64:RELOC
-  offset: 0x639E28
-  size: 0x1DE
+  offset: 0x668F14
+  size: 0x240
   symbol: NKirbyMain
   file_id: 231
   # compressed: True
-  # decompressed_size: 0x610
+  # decompressed_size: 0x640
 
 PurinMainMotion:
   type: SSB64:RELOC
-  offset: 0x63A006
+  offset: 0x669154
   size: 0x846
   symbol: PurinMainMotion
   file_id: 232
@@ -287,7 +287,7 @@ PurinMainMotion:
 
 PurinMain:
   type: SSB64:RELOC
-  offset: 0x63A84C
+  offset: 0x66999A
   size: 0x2BA
   symbol: PurinMain
   file_id: 233
@@ -296,16 +296,16 @@ PurinMain:
 
 NPurinMain:
   type: SSB64:RELOC
-  offset: 0x63AB06
-  size: 0x1D2
+  offset: 0x669C54
+  size: 0x230
   symbol: NPurinMain
   file_id: 234
   # compressed: True
-  # decompressed_size: 0x5F0
+  # decompressed_size: 0x630
 
 CaptainMainMotion:
   type: SSB64:RELOC
-  offset: 0x63ACD8
+  offset: 0x669E84
   size: 0x9CE
   symbol: CaptainMainMotion
   file_id: 235
@@ -314,7 +314,7 @@ CaptainMainMotion:
 
 CaptainMain:
   type: SSB64:RELOC
-  offset: 0x63B6A6
+  offset: 0x66A852
   size: 0x3DA
   symbol: CaptainMain
   file_id: 236
@@ -323,16 +323,16 @@ CaptainMain:
 
 NCaptainMain:
   type: SSB64:RELOC
-  offset: 0x63BA80
-  size: 0x206
+  offset: 0x66AC2C
+  size: 0x260
   symbol: NCaptainMain
   file_id: 237
   # compressed: True
-  # decompressed_size: 0x5F0
+  # decompressed_size: 0x600
 
 NessMainMotion:
   type: SSB64:RELOC
-  offset: 0x63BC86
+  offset: 0x66AE8C
   size: 0x836
   symbol: NessMainMotion
   file_id: 238
@@ -341,7 +341,7 @@ NessMainMotion:
 
 NessMain:
   type: SSB64:RELOC
-  offset: 0x63C4BC
+  offset: 0x66B6C2
   size: 0x3F6
   symbol: NessMain
   file_id: 239
@@ -350,7 +350,7 @@ NessMain:
 
 NessSpecial1:
   type: SSB64:RELOC
-  offset: 0x63C8B2
+  offset: 0x66BAB8
   size: 0x6E
   symbol: NessSpecial1
   file_id: 240
@@ -359,16 +359,16 @@ NessSpecial1:
 
 NNessMain:
   type: SSB64:RELOC
-  offset: 0x63C920
-  size: 0x22E
+  offset: 0x66BB26
+  size: 0x298
   symbol: NNessMain
   file_id: 241
   # compressed: True
-  # decompressed_size: 0x640
+  # decompressed_size: 0x650
 
 PikachuMainMotion:
   type: SSB64:RELOC
-  offset: 0x63CB4E
+  offset: 0x66BDBE
   size: 0x866
   symbol: PikachuMainMotion
   file_id: 242
@@ -377,7 +377,7 @@ PikachuMainMotion:
 
 PikachuMain:
   type: SSB64:RELOC
-  offset: 0x63D3B4
+  offset: 0x66C624
   size: 0x322
   symbol: PikachuMain
   file_id: 243
@@ -386,7 +386,7 @@ PikachuMain:
 
 PikachuSpecial1:
   type: SSB64:RELOC
-  offset: 0x63D6D6
+  offset: 0x66C946
   size: 0x64
   symbol: PikachuSpecial1
   file_id: 244
@@ -395,16 +395,16 @@ PikachuSpecial1:
 
 NPikachuMain:
   type: SSB64:RELOC
-  offset: 0x63D73A
-  size: 0x200
+  offset: 0x66C9AA
+  size: 0x252
   symbol: NPikachuMain
   file_id: 245
   # compressed: True
-  # decompressed_size: 0x5F0
+  # decompressed_size: 0x610
 
 YoshiMainMotion:
   type: SSB64:RELOC
-  offset: 0x63D93A
+  offset: 0x66CBFC
   size: 0x81E
   symbol: YoshiMainMotion
   file_id: 246
@@ -413,7 +413,7 @@ YoshiMainMotion:
 
 YoshiMain:
   type: SSB64:RELOC
-  offset: 0x63E158
+  offset: 0x66D41A
   size: 0x376
   symbol: YoshiMain
   file_id: 247
@@ -422,16 +422,16 @@ YoshiMain:
 
 NYoshiMain:
   type: SSB64:RELOC
-  offset: 0x63E4CE
-  size: 0x1FA
+  offset: 0x66D790
+  size: 0x240
   symbol: NYoshiMain
   file_id: 248
   # compressed: True
-  # decompressed_size: 0x600
+  # decompressed_size: 0x620
 
 BossMainMotion:
   type: SSB64:RELOC
-  offset: 0x63E6C8
+  offset: 0x66D9D0
   size: 0x3D8
   symbol: BossMainMotion
   file_id: 249
@@ -440,7 +440,7 @@ BossMainMotion:
 
 BossMain:
   type: SSB64:RELOC
-  offset: 0x63EAA0
+  offset: 0x66DDA8
   size: 0x1F8
   symbol: BossMain
   file_id: 250
@@ -449,16 +449,16 @@ BossMain:
 
 MarioModel:
   type: SSB64:RELOC
-  offset: 0x641BFC
-  size: 0x2E7C
+  offset: 0x671112
+  size: 0x7518
   symbol: MarioModel
   file_id: 296
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0x7510
 
 MarioSpecial3:
   type: SSB64:RELOC
-  offset: 0x644A78
+  offset: 0x67862A
   size: 0x178
   symbol: MarioSpecial3
   file_id: 297
@@ -467,7 +467,7 @@ MarioSpecial3:
 
 MarioShieldPose:
   type: SSB64:RELOC
-  offset: 0x644BF0
+  offset: 0x6787A2
   size: 0x198C
   symbol: MarioShieldPose
   file_id: 298
@@ -476,124 +476,124 @@ MarioShieldPose:
 
 MMarioModel:
   type: SSB64:RELOC
-  offset: 0x6465C8
-  size: 0x1860
+  offset: 0x67A17A
+  size: 0x3510
   symbol: MMarioModel
   file_id: 300
-  # compressed: True
-  # decompressed_size: 0x2F40
+  # compressed: False
+  # decompressed_size: 0x3510
 
 NMarioModel:
   type: SSB64:RELOC
-  offset: 0x647E28
-  size: 0xD90
+  offset: 0x67D68A
+  size: 0x1280
   symbol: NMarioModel
   file_id: 301
   # compressed: True
-  # decompressed_size: 0x2EB0
+  # decompressed_size: 0x4030
 
 NFoxModel:
   type: SSB64:RELOC
-  offset: 0x648E18
-  size: 0xD94
+  offset: 0x67EB9A
+  size: 0x1360
   symbol: NFoxModel
   file_id: 303
   # compressed: True
-  # decompressed_size: 0x32D0
+  # decompressed_size: 0x4110
 
 NYoshiModel:
   type: SSB64:RELOC
-  offset: 0x649BAC
-  size: 0xD60
+  offset: 0x67FEFA
+  size: 0x12D0
   symbol: NYoshiModel
   file_id: 304
   # compressed: True
-  # decompressed_size: 0x3400
+  # decompressed_size: 0x4700
 
 NKirbyModel:
   type: SSB64:RELOC
-  offset: 0x64A90C
-  size: 0xAC8
+  offset: 0x6811CA
+  size: 0xFA0
   symbol: NKirbyModel
   file_id: 305
   # compressed: True
-  # decompressed_size: 0x2730
+  # decompressed_size: 0x3410
 
 NPurinModel:
   type: SSB64:RELOC
-  offset: 0x64B3D4
-  size: 0xB64
+  offset: 0x68216A
+  size: 0xFE0
   symbol: NPurinModel
   file_id: 306
   # compressed: True
-  # decompressed_size: 0x2860
+  # decompressed_size: 0x3560
 
 NPikachuModel:
   type: SSB64:RELOC
-  offset: 0x64BF38
-  size: 0xCBC
+  offset: 0x68314A
+  size: 0x1260
   symbol: NPikachuModel
   file_id: 307
   # compressed: True
-  # decompressed_size: 0x2C50
+  # decompressed_size: 0x41A0
 
 NDonkeyModel:
   type: SSB64:RELOC
-  offset: 0x64CBF4
-  size: 0xE88
+  offset: 0x6843AA
+  size: 0x13B0
   symbol: NDonkeyModel
   file_id: 308
   # compressed: True
-  # decompressed_size: 0x31D0
+  # decompressed_size: 0x3F60
 
 NSamusModel:
   type: SSB64:RELOC
-  offset: 0x64DA7C
-  size: 0x157C
+  offset: 0x68575A
+  size: 0x1AE0
   symbol: NSamusModel
   file_id: 309
   # compressed: True
-  # decompressed_size: 0x4BD0
+  # decompressed_size: 0x5D70
 
 NLinkModel:
   type: SSB64:RELOC
-  offset: 0x64EFF8
-  size: 0xFF8
+  offset: 0x68723A
+  size: 0x14F0
   symbol: NLinkModel
   file_id: 310
   # compressed: True
-  # decompressed_size: 0x3630
+  # decompressed_size: 0x44A0
 
 NCaptainModel:
   type: SSB64:RELOC
-  offset: 0x64FFF0
-  size: 0xE48
+  offset: 0x68872A
+  size: 0x1350
   symbol: NCaptainModel
   file_id: 311
   # compressed: True
-  # decompressed_size: 0x3220
+  # decompressed_size: 0x3FC0
 
 NNessModel:
   type: SSB64:RELOC
-  offset: 0x650E38
-  size: 0xED0
+  offset: 0x689A7A
+  size: 0x1418
   symbol: NNessModel
   file_id: 312
   # compressed: True
-  # decompressed_size: 0x35E0
+  # decompressed_size: 0x4940
 
 FoxModel:
   type: SSB64:RELOC
-  offset: 0x651D08
-  size: 0x2EB8
+  offset: 0x68AE92
+  size: 0x7E58
   symbol: FoxModel
   file_id: 313
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0x7E50
 
 FoxShieldPose:
   type: SSB64:RELOC
-  offset: 0x654BC0
+  offset: 0x692CEA
   size: 0x189C
   symbol: FoxShieldPose
   file_id: 314
@@ -602,7 +602,7 @@ FoxShieldPose:
 
 FoxSpecial4:
   type: SSB64:RELOC
-  offset: 0x6566A0
+  offset: 0x6947CA
   size: 0x54
   symbol: FoxSpecial4
   file_id: 316
@@ -611,16 +611,16 @@ FoxSpecial4:
 
 DonkeyModel:
   type: SSB64:RELOC
-  offset: 0x6566F4
-  size: 0x4E30
+  offset: 0x69481E
+  size: 0xD608
   symbol: DonkeyModel
   file_id: 317
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0xD600
 
 DonkeyShieldPose:
   type: SSB64:RELOC
-  offset: 0x65B524
+  offset: 0x6A1E26
   size: 0x1808
   symbol: DonkeyShieldPose
   file_id: 318
@@ -629,7 +629,7 @@ DonkeyShieldPose:
 
 DkIcon:
   type: SSB64:RELOC
-  offset: 0x65CD2C
+  offset: 0x6A362E
   size: 0x1F8
   symbol: DkIcon
   file_id: 319
@@ -638,16 +638,16 @@ DkIcon:
 
 SamusModel:
   type: SSB64:RELOC
-  offset: 0x65CF24
-  size: 0x5948
+  offset: 0x6A3826
+  size: 0xE550
   symbol: SamusModel
   file_id: 320
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0xE550
 
 SamusSpecial3:
   type: SSB64:RELOC
-  offset: 0x66286C
+  offset: 0x6B1D76
   size: 0x204
   symbol: SamusSpecial3
   file_id: 321
@@ -656,7 +656,7 @@ SamusSpecial3:
 
 SamusShieldPose:
   type: SSB64:RELOC
-  offset: 0x662A70
+  offset: 0x6B1F7A
   size: 0x1858
   symbol: SamusShieldPose
   file_id: 322
@@ -665,25 +665,25 @@ SamusShieldPose:
 
 LuigiModel:
   type: SSB64:RELOC
-  offset: 0x6642C8
-  size: 0x2E20
+  offset: 0x6B37D2
+  size: 0x7F18
   symbol: LuigiModel
   file_id: 323
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0x7F10
 
 LinkModel:
   type: SSB64:RELOC
-  offset: 0x6670E8
-  size: 0x7678
+  offset: 0x6BB6EA
+  size: 0x11F78
   symbol: LinkModel
   file_id: 324
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0x11F70
 
 LinkSpecial3:
   type: SSB64:RELOC
-  offset: 0x66E760
+  offset: 0x6CD662
   size: 0x2A0
   symbol: LinkSpecial3
   file_id: 325
@@ -692,7 +692,7 @@ LinkSpecial3:
 
 LinkShieldPose:
   type: SSB64:RELOC
-  offset: 0x66EB0C
+  offset: 0x6CDA0E
   size: 0x1888
   symbol: LinkShieldPose
   file_id: 327
@@ -701,16 +701,16 @@ LinkShieldPose:
 
 KirbyModel:
   type: SSB64:RELOC
-  offset: 0x670394
-  size: 0xB164
+  offset: 0x6CF296
+  size: 0x1DA0C
   symbol: KirbyModel
   file_id: 328
-  # compressed: True
-  # decompressed_size: 0x1D820
+  # compressed: False
+  # decompressed_size: 0x1D9E0
 
 KirbyShieldPose:
   type: SSB64:RELOC
-  offset: 0x67B4F8
+  offset: 0x6ECCA2
   size: 0x1854
   symbol: KirbyShieldPose
   file_id: 329
@@ -719,16 +719,16 @@ KirbyShieldPose:
 
 PurinModel:
   type: SSB64:RELOC
-  offset: 0x67CD4C
-  size: 0x31A4
+  offset: 0x6EE4F6
+  size: 0x7DE0
   symbol: PurinModel
   file_id: 330
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0x7DE0
 
 PurinShieldPose:
   type: SSB64:RELOC
-  offset: 0x67FEF0
+  offset: 0x6F62D6
   size: 0x2740
   symbol: PurinShieldPose
   file_id: 331
@@ -737,16 +737,16 @@ PurinShieldPose:
 
 CaptainModel:
   type: SSB64:RELOC
-  offset: 0x682630
-  size: 0x4440
+  offset: 0x6F8A16
+  size: 0xC898
   symbol: CaptainModel
   file_id: 332
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0xC890
 
 CaptainSpecial3:
   type: SSB64:RELOC
-  offset: 0x686A70
+  offset: 0x7052AE
   size: 0x4B0
   symbol: CaptainSpecial3
   file_id: 333
@@ -755,7 +755,7 @@ CaptainSpecial3:
 
 CaptainShieldPose:
   type: SSB64:RELOC
-  offset: 0x686F20
+  offset: 0x70575E
   size: 0x1AE4
   symbol: CaptainShieldPose
   file_id: 334
@@ -764,16 +764,16 @@ CaptainShieldPose:
 
 NessModel:
   type: SSB64:RELOC
-  offset: 0x688A04
-  size: 0x4770
+  offset: 0x707242
+  size: 0xC3C8
   symbol: NessModel
   file_id: 335
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0xC3C0
 
 NessSpecial3:
   type: SSB64:RELOC
-  offset: 0x68D174
+  offset: 0x71360A
   size: 0x4AC
   symbol: NessSpecial3
   file_id: 336
@@ -782,7 +782,7 @@ NessSpecial3:
 
 NessShieldPose:
   type: SSB64:RELOC
-  offset: 0x68D620
+  offset: 0x713AB6
   size: 0x1ED4
   symbol: NessShieldPose
   file_id: 337
@@ -791,16 +791,16 @@ NessShieldPose:
 
 YoshiModel:
   type: SSB64:RELOC
-  offset: 0x68F4F4
-  size: 0x384C
+  offset: 0x71598A
+  size: 0xACF4
   symbol: YoshiModel
   file_id: 338
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0xACE0
 
 YoshiSpecial3:
   type: SSB64:RELOC
-  offset: 0x692D40
+  offset: 0x72067E
   size: 0x654
   symbol: YoshiSpecial3
   file_id: 339
@@ -809,7 +809,7 @@ YoshiSpecial3:
 
 YoshiShieldPose:
   type: SSB64:RELOC
-  offset: 0x693394
+  offset: 0x720CD2
   size: 0x544
   symbol: YoshiShieldPose
   file_id: 340
@@ -818,16 +818,16 @@ YoshiShieldPose:
 
 PikachuModel:
   type: SSB64:RELOC
-  offset: 0x6938D8
-  size: 0x3644
+  offset: 0x721216
+  size: 0x9C38
   symbol: PikachuModel
   file_id: 341
-  # compressed: True
+  # compressed: False
   # decompressed_size: 0x9C30
 
 PikachuSpecial3:
   type: SSB64:RELOC
-  offset: 0x696F1C
+  offset: 0x72AE4E
   size: 0xE20
   symbol: PikachuSpecial3
   file_id: 342
@@ -836,7 +836,7 @@ PikachuSpecial3:
 
 PikachuShieldPose:
   type: SSB64:RELOC
-  offset: 0x697D3C
+  offset: 0x72BC6E
   size: 0x1FE8
   symbol: PikachuShieldPose
   file_id: 343
@@ -845,7 +845,7 @@ PikachuShieldPose:
 
 BossModel:
   type: SSB64:RELOC
-  offset: 0x699D24
+  offset: 0x72DC56
   size: 0x1858
   symbol: BossModel
   file_id: 344
@@ -854,7 +854,7 @@ BossModel:
 
 MasterHandIcon:
   type: SSB64:RELOC
-  offset: 0x69B57C
+  offset: 0x72F4AE
   size: 0x184
   symbol: MasterHandIcon
   file_id: 345
@@ -863,7 +863,7 @@ MasterHandIcon:
 
 FoxSpecial2:
   type: SSB64:RELOC
-  offset: 0x69B700
+  offset: 0x72F632
   size: 0x3E0
   symbol: FoxSpecial2
   file_id: 346
@@ -872,8 +872,8 @@ FoxSpecial2:
 
 PikachuSpecial2:
   type: SSB64:RELOC
-  offset: 0x69BAE0
-  size: 0x8A4
+  offset: 0x72FA12
+  size: 0x8A0
   symbol: PikachuSpecial2
   file_id: 347
   # compressed: True
@@ -881,7 +881,7 @@ PikachuSpecial2:
 
 KirbySpecial2:
   type: SSB64:RELOC
-  offset: 0x69C384
+  offset: 0x7302B2
   size: 0xEE0
   symbol: KirbySpecial2
   file_id: 348
@@ -890,7 +890,7 @@ KirbySpecial2:
 
 SamusSpecial2:
   type: SSB64:RELOC
-  offset: 0x69D264
+  offset: 0x731192
   size: 0x644
   symbol: SamusSpecial2
   file_id: 349
@@ -899,7 +899,7 @@ SamusSpecial2:
 
 CaptainSpecial2:
   type: SSB64:RELOC
-  offset: 0x69D8A8
+  offset: 0x7317D6
   size: 0x1A68
   symbol: CaptainSpecial2
   file_id: 350
@@ -908,7 +908,7 @@ CaptainSpecial2:
 
 PurinSpecial2:
   type: SSB64:RELOC
-  offset: 0x69F310
+  offset: 0x73323E
   size: 0xDA0
   symbol: PurinSpecial2
   file_id: 351
@@ -917,7 +917,7 @@ PurinSpecial2:
 
 NessSpecial2:
   type: SSB64:RELOC
-  offset: 0x6A00B0
+  offset: 0x733FDE
   size: 0x5E4
   symbol: NessSpecial2
   file_id: 352
@@ -926,7 +926,7 @@ NessSpecial2:
 
 LinkSpecial2:
   type: SSB64:RELOC
-  offset: 0x6A0694
+  offset: 0x7345C2
   size: 0xB04
   symbol: LinkSpecial2
   file_id: 353
@@ -935,7 +935,7 @@ LinkSpecial2:
 
 YoshiSpecial2:
   type: SSB64:RELOC
-  offset: 0x6A1198
+  offset: 0x7350C6
   size: 0x380
   symbol: YoshiSpecial2
   file_id: 354
@@ -944,7 +944,7 @@ YoshiSpecial2:
 
 DonkeySpecial2:
   type: SSB64:RELOC
-  offset: 0x6A1518
+  offset: 0x735446
   size: 0x57C
   symbol: DonkeySpecial2
   file_id: 355
@@ -953,7 +953,7 @@ DonkeySpecial2:
 
 MarioSpecial2:
   type: SSB64:RELOC
-  offset: 0x6A1A94
+  offset: 0x7359C2
   size: 0x390
   symbol: MarioSpecial2
   file_id: 356

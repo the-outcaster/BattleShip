@@ -8,17 +8,17 @@
 
 MiscData029:
   type: SSB64:RELOC
-  offset: 0x222BE0
-  size: 0x7DEC
+  offset: 0x2443CC
+  size: 0xA910
   symbol: MiscData029
   file_id: 29
   # compressed: True
-  # decompressed_size: 0x141F0
+  # decompressed_size: 0x1BC10
 
 MiscData039:
   type: SSB64:RELOC
-  offset: 0x240D68
-  size: 0x12DC
+  offset: 0x2686E4
+  size: 0x12F0
   symbol: MiscData039
   file_id: 39
   # compressed: True
@@ -26,7 +26,7 @@ MiscData039:
 
 MiscData047:
   type: SSB64:RELOC
-  offset: 0x24B0E4
+  offset: 0x272A74
   size: 0x588
   symbol: MiscData047
   file_id: 47
@@ -35,7 +35,7 @@ MiscData047:
 
 MiscData086:
   type: SSB64:RELOC
-  offset: 0x32623C
+  offset: 0x34DB24
   size: 0x7BF0
   symbol: MiscData086
   file_id: 86
@@ -44,7 +44,7 @@ MiscData086:
 
 ExternDataBank100:
   type: SSB64:RELOC
-  offset: 0x3E68E4
+  offset: 0x40E1CC
   size: 0x1D94
   symbol: ExternDataBank100
   file_id: 100
@@ -53,7 +53,7 @@ ExternDataBank100:
 
 ExternDataBank101:
   type: SSB64:RELOC
-  offset: 0x3E8678
+  offset: 0x40FF60
   size: 0xA60
   symbol: ExternDataBank101
   file_id: 101
@@ -62,7 +62,7 @@ ExternDataBank101:
 
 ExternDataBank102:
   type: SSB64:RELOC
-  offset: 0x3E90D8
+  offset: 0x4109C0
   size: 0x10A4
   symbol: ExternDataBank102
   file_id: 102
@@ -71,7 +71,7 @@ ExternDataBank102:
 
 ExternDataBank103:
   type: SSB64:RELOC
-  offset: 0x3EA17C
+  offset: 0x411A64
   size: 0x2484
   symbol: ExternDataBank103
   file_id: 103
@@ -80,7 +80,7 @@ ExternDataBank103:
 
 ExternDataBank104:
   type: SSB64:RELOC
-  offset: 0x3EC600
+  offset: 0x413EE8
   size: 0x1862
   symbol: ExternDataBank104
   file_id: 104
@@ -89,7 +89,7 @@ ExternDataBank104:
 
 ExternDataBank105:
   type: SSB64:RELOC
-  offset: 0x3EDE62
+  offset: 0x41574A
   size: 0x3B34
   symbol: ExternDataBank105
   file_id: 105
@@ -98,7 +98,7 @@ ExternDataBank105:
 
 ExternDataBank106:
   type: SSB64:RELOC
-  offset: 0x3F1996
+  offset: 0x41927E
   size: 0x1E88
   symbol: ExternDataBank106
   file_id: 106
@@ -107,7 +107,7 @@ ExternDataBank106:
 
 ExternDataBank107:
   type: SSB64:RELOC
-  offset: 0x3F381E
+  offset: 0x41B106
   size: 0x1F70
   symbol: ExternDataBank107
   file_id: 107
@@ -116,7 +116,7 @@ ExternDataBank107:
 
 ExternDataBank108:
   type: SSB64:RELOC
-  offset: 0x3F578E
+  offset: 0x41D076
   size: 0x6CC0
   symbol: ExternDataBank108
   file_id: 108
@@ -125,7 +125,7 @@ ExternDataBank108:
 
 ExternDataBank109:
   type: SSB64:RELOC
-  offset: 0x3FC44E
+  offset: 0x423D36
   size: 0x4990
   symbol: ExternDataBank109
   file_id: 109
@@ -134,7 +134,7 @@ ExternDataBank109:
 
 ExternDataBank110:
   type: SSB64:RELOC
-  offset: 0x400DDE
+  offset: 0x4286C6
   size: 0x3314
   symbol: ExternDataBank110
   file_id: 110
@@ -143,7 +143,7 @@ ExternDataBank110:
 
 ExternDataBank111:
   type: SSB64:RELOC
-  offset: 0x4040F2
+  offset: 0x42B9DA
   size: 0x26F4
   symbol: ExternDataBank111
   file_id: 111
@@ -152,7 +152,7 @@ ExternDataBank111:
 
 ExternDataBank112:
   type: SSB64:RELOC
-  offset: 0x4067E6
+  offset: 0x42E0CE
   size: 0x55E4
   symbol: ExternDataBank112
   file_id: 112
@@ -161,7 +161,7 @@ ExternDataBank112:
 
 ExternDataBank113:
   type: SSB64:RELOC
-  offset: 0x40BDCA
+  offset: 0x4336B2
   size: 0x3948
   symbol: ExternDataBank113
   file_id: 113
@@ -170,7 +170,7 @@ ExternDataBank113:
 
 ExternDataBank114:
   type: SSB64:RELOC
-  offset: 0x40F712
+  offset: 0x436FFA
   size: 0x9EB0
   symbol: ExternDataBank114
   file_id: 114
@@ -179,7 +179,7 @@ ExternDataBank114:
 
 ExternDataBank115:
   type: SSB64:RELOC
-  offset: 0x4195C2
+  offset: 0x440EAA
   size: 0x5E8
   symbol: ExternDataBank115
   file_id: 115
@@ -188,7 +188,7 @@ ExternDataBank115:
 
 ExternDataBank116:
   type: SSB64:RELOC
-  offset: 0x419BAA
+  offset: 0x441492
   size: 0x1CB4
   symbol: ExternDataBank116
   file_id: 116
@@ -197,7 +197,7 @@ ExternDataBank116:
 
 ExternDataBank117:
   type: SSB64:RELOC
-  offset: 0x41B85E
+  offset: 0x443146
   size: 0x1A00
   symbol: ExternDataBank117
   file_id: 117
@@ -206,7 +206,7 @@ ExternDataBank117:
 
 ExternDataBank118:
   type: SSB64:RELOC
-  offset: 0x41D25E
+  offset: 0x444B46
   size: 0x147C
   symbol: ExternDataBank118
   file_id: 118
@@ -215,7 +215,7 @@ ExternDataBank118:
 
 ExternDataBank120:
   type: SSB64:RELOC
-  offset: 0x41F216
+  offset: 0x446AFE
   size: 0x460
   symbol: ExternDataBank120
   file_id: 120
@@ -224,7 +224,7 @@ ExternDataBank120:
 
 ExternDataBank121:
   type: SSB64:RELOC
-  offset: 0x41F676
+  offset: 0x446F5E
   size: 0x228
   symbol: ExternDataBank121
   file_id: 121
@@ -233,7 +233,7 @@ ExternDataBank121:
 
 ExternDataBank122:
   type: SSB64:RELOC
-  offset: 0x41F89E
+  offset: 0x447186
   size: 0x1E0
   symbol: ExternDataBank122
   file_id: 122
@@ -242,7 +242,7 @@ ExternDataBank122:
 
 ExternDataBank123:
   type: SSB64:RELOC
-  offset: 0x41FA7E
+  offset: 0x447366
   size: 0x658
   symbol: ExternDataBank123
   file_id: 123
@@ -251,7 +251,7 @@ ExternDataBank123:
 
 ExternDataBank124:
   type: SSB64:RELOC
-  offset: 0x4200D6
+  offset: 0x4479BE
   size: 0xB5A
   symbol: ExternDataBank124
   file_id: 124
@@ -260,7 +260,7 @@ ExternDataBank124:
 
 ExternDataBank125:
   type: SSB64:RELOC
-  offset: 0x420C30
+  offset: 0x448518
   size: 0xCE0
   symbol: ExternDataBank125
   file_id: 125
@@ -269,7 +269,7 @@ ExternDataBank125:
 
 ExternDataBank126:
   type: SSB64:RELOC
-  offset: 0x421910
+  offset: 0x4491F8
   size: 0xB04
   symbol: ExternDataBank126
   file_id: 126
@@ -278,7 +278,7 @@ ExternDataBank126:
 
 ExternDataBank127:
   type: SSB64:RELOC
-  offset: 0x422414
+  offset: 0x449CFC
   size: 0x950
   symbol: ExternDataBank127
   file_id: 127
@@ -287,7 +287,7 @@ ExternDataBank127:
 
 ExternDataBank128:
   type: SSB64:RELOC
-  offset: 0x422D64
+  offset: 0x44A64C
   size: 0xB34
   symbol: ExternDataBank128
   file_id: 128
@@ -296,7 +296,7 @@ ExternDataBank128:
 
 ExternDataBank129:
   type: SSB64:RELOC
-  offset: 0x423898
+  offset: 0x44B180
   size: 0xDBC
   symbol: ExternDataBank129
   file_id: 129
@@ -305,7 +305,7 @@ ExternDataBank129:
 
 ExternDataBank130:
   type: SSB64:RELOC
-  offset: 0x424654
+  offset: 0x44BF3C
   size: 0x10C6
   symbol: ExternDataBank130
   file_id: 130
@@ -314,7 +314,7 @@ ExternDataBank130:
 
 ExternDataBank131:
   type: SSB64:RELOC
-  offset: 0x42571A
+  offset: 0x44D002
   size: 0xA00
   symbol: ExternDataBank131
   file_id: 131
@@ -323,7 +323,7 @@ ExternDataBank131:
 
 ExternDataBank132:
   type: SSB64:RELOC
-  offset: 0x42611A
+  offset: 0x44DA02
   size: 0xD08
   symbol: ExternDataBank132
   file_id: 132
@@ -332,7 +332,7 @@ ExternDataBank132:
 
 ExternDataBank133:
   type: SSB64:RELOC
-  offset: 0x426E22
+  offset: 0x44E70A
   size: 0xE74
   symbol: ExternDataBank133
   file_id: 133
@@ -341,7 +341,7 @@ ExternDataBank133:
 
 ExternDataBank134:
   type: SSB64:RELOC
-  offset: 0x427C96
+  offset: 0x44F57E
   size: 0xC36
   symbol: ExternDataBank134
   file_id: 134
@@ -350,7 +350,7 @@ ExternDataBank134:
 
 ExternDataBank135:
   type: SSB64:RELOC
-  offset: 0x4288CC
+  offset: 0x4501B4
   size: 0x11AC
   symbol: ExternDataBank135
   file_id: 135
@@ -359,7 +359,7 @@ ExternDataBank135:
 
 MiscDataBank152:
   type: SSB64:RELOC
-  offset: 0x43EF82
+  offset: 0x46686A
   size: 0x10C4
   symbol: MiscDataBank152
   file_id: 152
@@ -368,7 +368,7 @@ MiscDataBank152:
 
 MiscDataBank153:
   type: SSB64:RELOC
-  offset: 0x440046
+  offset: 0x46792E
   size: 0x1620
   symbol: MiscDataBank153
   file_id: 153
@@ -377,7 +377,7 @@ MiscDataBank153:
 
 MiscDataBank154:
   type: SSB64:RELOC
-  offset: 0x441666
+  offset: 0x468F4E
   size: 0x31C
   symbol: MiscDataBank154
   file_id: 154
@@ -386,8 +386,8 @@ MiscDataBank154:
 
 MiscDataBank155:
   type: SSB64:RELOC
-  offset: 0x441982
-  size: 0x82C
+  offset: 0x46926A
+  size: 0x828
   symbol: MiscDataBank155
   file_id: 155
   # compressed: True
@@ -395,7 +395,7 @@ MiscDataBank155:
 
 MiscDataBank156:
   type: SSB64:RELOC
-  offset: 0x4421AE
+  offset: 0x469A92
   size: 0x34
   symbol: MiscDataBank156
   file_id: 156
@@ -404,7 +404,7 @@ MiscDataBank156:
 
 MiscDataBank157:
   type: SSB64:RELOC
-  offset: 0x4421E2
+  offset: 0x469AC6
   size: 0xA98
   symbol: MiscDataBank157
   file_id: 157
@@ -413,7 +413,7 @@ MiscDataBank157:
 
 MiscDataBank158:
   type: SSB64:RELOC
-  offset: 0x442C7A
+  offset: 0x46A55E
   size: 0x78C
   symbol: MiscDataBank158
   file_id: 158
@@ -422,7 +422,7 @@ MiscDataBank158:
 
 MiscDataBank159:
   type: SSB64:RELOC
-  offset: 0x443406
+  offset: 0x46ACEA
   size: 0x1134
   symbol: MiscDataBank159
   file_id: 159
@@ -431,7 +431,7 @@ MiscDataBank159:
 
 MiscDataBank160:
   type: SSB64:RELOC
-  offset: 0x44453A
+  offset: 0x46BE1E
   size: 0x2FC
   symbol: MiscDataBank160
   file_id: 160
@@ -440,7 +440,7 @@ MiscDataBank160:
 
 MiscData162:
   type: SSB64:RELOC
-  offset: 0x446090
+  offset: 0x46DB2A
   size: 0x3B8
   symbol: MiscData162
   file_id: 162
@@ -449,7 +449,7 @@ MiscData162:
 
 MiscData201:
   type: SSB64:RELOC
-  offset: 0x6328B0
+  offset: 0x661766
   size: 0x2EC
   symbol: MiscData201
   file_id: 201
@@ -458,7 +458,7 @@ MiscData201:
 
 MiscData230:
   type: SSB64:RELOC
-  offset: 0x639DEA
+  offset: 0x668ED6
   size: 0x3E
   symbol: MiscData230
   file_id: 230
@@ -467,7 +467,7 @@ MiscData230:
 
 MiscData253:
   type: SSB64:RELOC
-  offset: 0x63FFB8
+  offset: 0x66F3C0
   size: 0x3E
   symbol: MiscData253
   file_id: 253
@@ -476,7 +476,7 @@ MiscData253:
 
 MiscData299:
   type: SSB64:RELOC
-  offset: 0x64657C
+  offset: 0x67A12E
   size: 0x4C
   symbol: MiscData299
   file_id: 299
@@ -485,8 +485,8 @@ MiscData299:
 
 MiscData302:
   type: SSB64:RELOC
-  offset: 0x648BB8
-  size: 0x260
+  offset: 0x67E90A
+  size: 0x290
   symbol: MiscData302
   file_id: 302
   # compressed: True
@@ -494,7 +494,7 @@ MiscData302:
 
 MiscData315:
   type: SSB64:RELOC
-  offset: 0x65645C
+  offset: 0x694586
   size: 0x244
   symbol: MiscData315
   file_id: 315
@@ -503,7 +503,7 @@ MiscData315:
 
 MiscData326:
   type: SSB64:RELOC
-  offset: 0x66EA00
+  offset: 0x6CD902
   size: 0x10C
   symbol: MiscData326
   file_id: 326

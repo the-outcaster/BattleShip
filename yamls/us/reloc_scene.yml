@@ -8,7 +8,7 @@
 
 SC1PChallenger:
   type: SSB64:RELOC
-  offset: 0x1D1044
+  offset: 0x1DE400
   size: 0x614
   symbol: SC1PChallenger
   file_id: 10
@@ -17,16 +17,16 @@ SC1PChallenger:
 
 SC1PIntro:
   type: SSB64:RELOC
-  offset: 0x1D1658
-  size: 0xDA0C
+  offset: 0x1DEA14
+  size: 0xF5D0
   symbol: SC1PIntro
   file_id: 11
   # compressed: True
-  # decompressed_size: 0x14C40
+  # decompressed_size: 0x178D0
 
 SC1PStageClear1:
   type: SSB64:RELOC
-  offset: 0x303C44
+  offset: 0x32B5D4
   size: 0x4728
   symbol: SC1PStageClear1
   file_id: 80
@@ -35,7 +35,7 @@ SC1PStageClear1:
 
 SC1PStageClear2:
   type: SSB64:RELOC
-  offset: 0x30836C
+  offset: 0x32FCFC
   size: 0x290
   symbol: SC1PStageClear2
   file_id: 81
@@ -44,7 +44,7 @@ SC1PStageClear2:
 
 SC1PStageClear3:
   type: SSB64:RELOC
-  offset: 0x43EE1E
+  offset: 0x466706
   size: 0x164
   symbol: SC1PStageClear3
   file_id: 151
@@ -53,16 +53,16 @@ SC1PStageClear3:
 
 SCStaffroll:
   type: SSB64:RELOC
-  offset: 0x623CEC
-  size: 0x1B94
+  offset: 0x65250E
+  size: 0x2180
   symbol: SCStaffroll
   file_id: 195
   # compressed: True
-  # decompressed_size: 0x7950
+  # decompressed_size: 0x8978
 
 SCExplainGraphics:
   type: SSB64:RELOC
-  offset: 0x626E90
+  offset: 0x655D46
   size: 0xB99C
   symbol: SCExplainGraphics
   file_id: 198
@@ -71,7 +71,7 @@ SCExplainGraphics:
 
 SCExplainMain:
   type: SSB64:RELOC
-  offset: 0x63F218
+  offset: 0x66E620
   size: 0xDA0
   symbol: SCExplainMain
   file_id: 252
@@ -80,9 +80,9 @@ SCExplainMain:
 
 SC1PTrainingMode:
   type: SSB64:RELOC
-  offset: 0x63FFF6
-  size: 0x350
+  offset: 0x66F3FE
+  size: 0x412
   symbol: SC1PTrainingMode
   file_id: 254
   # compressed: True
-  # decompressed_size: 0x2A0
+  # decompressed_size: 0x390

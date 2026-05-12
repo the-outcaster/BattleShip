@@ -8,16 +8,16 @@
 
 CharacterNames:
   type: SSB64:RELOC
-  offset: 0x1DF064
-  size: 0x860
+  offset: 0x1EDFE4
+  size: 0x4FF0
   symbol: CharacterNames
   file_id: 12
   # compressed: True
-  # decompressed_size: 0x10E0
+  # decompressed_size: 0xD8E0
 
 N64Logo:
   type: SSB64:RELOC
-  offset: 0x622FE4
+  offset: 0x651806
   size: 0xD08
   symbol: N64Logo
   file_id: 194
@@ -26,7 +26,7 @@ N64Logo:
 
 SYKseg1Validate:
   type: SSB64:RELOC
-  offset: 0x63282C
+  offset: 0x6616E2
   size: 0x3C
   symbol: SYKseg1Validate
   file_id: 199
@@ -35,7 +35,7 @@ SYKseg1Validate:
 
 SYSignValidate:
   type: SSB64:RELOC
-  offset: 0x632868
+  offset: 0x66171E
   size: 0x48
   symbol: SYSignValidate
   file_id: 200

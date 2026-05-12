@@ -8,7 +8,7 @@
 
 FTMarioSubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6A1E24
+  offset: 0x735D52
   size: 0xD14
   symbol: FTMarioSubMotionAppearR
   file_id: 357
@@ -17,7 +17,7 @@ FTMarioSubMotionAppearR:
 
 FTMarioSubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6A2B38
+  offset: 0x736A66
   size: 0x1550
   symbol: FTMarioSubMotionAppearL
   file_id: 358
@@ -26,7 +26,7 @@ FTMarioSubMotionAppearL:
 
 FTMarioSubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6A4088
+  offset: 0x737FB6
   size: 0xC70
   symbol: FTMarioSubMotionAppearAlt1
   file_id: 359
@@ -35,7 +35,7 @@ FTMarioSubMotionAppearAlt1:
 
 FTMarioSubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6A4CF8
+  offset: 0x738C26
   size: 0x614
   symbol: FTMarioSubMotionAppearAlt2
   file_id: 360
@@ -44,7 +44,7 @@ FTMarioSubMotionAppearAlt2:
 
 FTMarioSubMotionTaunt:
   type: SSB64:RELOC
-  offset: 0x6A530C
+  offset: 0x73923A
   size: 0x768
   symbol: FTMarioSubMotionTaunt
   file_id: 361
@@ -53,7 +53,7 @@ FTMarioSubMotionTaunt:
 
 FTMarioSubMotionVictory1:
   type: SSB64:RELOC
-  offset: 0x6A5A74
+  offset: 0x7399A2
   size: 0x35C
   symbol: FTMarioSubMotionVictory1
   file_id: 362
@@ -62,7 +62,7 @@ FTMarioSubMotionVictory1:
 
 FTMarioSubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6A5DD0
+  offset: 0x739CFE
   size: 0x924
   symbol: FTMarioSubMotionVictory2
   file_id: 363
@@ -71,7 +71,7 @@ FTMarioSubMotionVictory2:
 
 FTMarioSubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6A66F4
+  offset: 0x73A622
   size: 0x1C2C
   symbol: FTMarioSubMotionVictory3
   file_id: 364
@@ -80,7 +80,7 @@ FTMarioSubMotionVictory3:
 
 FTMarioSubMotionIdleAlt:
   type: SSB64:RELOC
-  offset: 0x6A8320
+  offset: 0x73C24E
   size: 0x1498
   symbol: FTMarioSubMotionIdleAlt
   file_id: 365
@@ -89,7 +89,7 @@ FTMarioSubMotionIdleAlt:
 
 FTMarioSubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6A97B8
+  offset: 0x73D6E6
   size: 0x670
   symbol: FTMarioSubMotionResults1
   file_id: 366
@@ -98,7 +98,7 @@ FTMarioSubMotionResults1:
 
 FTMarioSubMotionResults2:
   type: SSB64:RELOC
-  offset: 0x6A9E28
+  offset: 0x73DD56
   size: 0xD8
   symbol: FTMarioSubMotionResults2
   file_id: 367
@@ -107,7 +107,7 @@ FTMarioSubMotionResults2:
 
 FTMarioSubMotionResults3:
   type: SSB64:RELOC
-  offset: 0x6A9F00
+  offset: 0x73DE2E
   size: 0x100
   symbol: FTMarioSubMotionResults3
   file_id: 368
@@ -116,7 +116,7 @@ FTMarioSubMotionResults3:
 
 FTMarioSubMotionResults4:
   type: SSB64:RELOC
-  offset: 0x6AA000
+  offset: 0x73DF2E
   size: 0xE8
   symbol: FTMarioSubMotionResults4
   file_id: 369
@@ -125,7 +125,7 @@ FTMarioSubMotionResults4:
 
 FTFoxSubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6AA0E8
+  offset: 0x73E016
   size: 0xF98
   symbol: FTFoxSubMotionAppearR
   file_id: 370
@@ -134,7 +134,7 @@ FTFoxSubMotionAppearR:
 
 FTFoxSubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6AB080
+  offset: 0x73EFAE
   size: 0x1040
   symbol: FTFoxSubMotionAppearL
   file_id: 371
@@ -143,7 +143,7 @@ FTFoxSubMotionAppearL:
 
 FTFoxSubMotionAppearAlt:
   type: SSB64:RELOC
-  offset: 0x6AC0C0
+  offset: 0x73FFEE
   size: 0x678
   symbol: FTFoxSubMotionAppearAlt
   file_id: 372
@@ -152,7 +152,7 @@ FTFoxSubMotionAppearAlt:
 
 FTFoxSubMotionTaunt:
   type: SSB64:RELOC
-  offset: 0x6AC738
+  offset: 0x740666
   size: 0x52C
   symbol: FTFoxSubMotionTaunt
   file_id: 373
@@ -161,7 +161,7 @@ FTFoxSubMotionTaunt:
 
 FTFoxSubMotionVictory1:
   type: SSB64:RELOC
-  offset: 0x6ACC64
+  offset: 0x740B92
   size: 0x444
   symbol: FTFoxSubMotionVictory1
   file_id: 374
@@ -170,7 +170,7 @@ FTFoxSubMotionVictory1:
 
 FTFoxSubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6AD0A8
+  offset: 0x740FD6
   size: 0xB24
   symbol: FTFoxSubMotionVictory2
   file_id: 375
@@ -179,7 +179,7 @@ FTFoxSubMotionVictory2:
 
 FTFoxSubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6ADBCC
+  offset: 0x741AFA
   size: 0x1DEC
   symbol: FTFoxSubMotionVictory3
   file_id: 376
@@ -188,7 +188,7 @@ FTFoxSubMotionVictory3:
 
 FTFoxSubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6AF9B8
+  offset: 0x7438E6
   size: 0x954
   symbol: FTFoxSubMotionResults1
   file_id: 377
@@ -197,7 +197,7 @@ FTFoxSubMotionResults1:
 
 FTFoxSubMotionResults2:
   type: SSB64:RELOC
-  offset: 0x6B030C
+  offset: 0x74423A
   size: 0x11C
   symbol: FTFoxSubMotionResults2
   file_id: 378
@@ -206,7 +206,7 @@ FTFoxSubMotionResults2:
 
 FTFoxSubMotionResults3:
   type: SSB64:RELOC
-  offset: 0x6B0428
+  offset: 0x744356
   size: 0x120
   symbol: FTFoxSubMotionResults3
   file_id: 379
@@ -215,7 +215,7 @@ FTFoxSubMotionResults3:
 
 FTFoxSubMotionResults4:
   type: SSB64:RELOC
-  offset: 0x6B0548
+  offset: 0x744476
   size: 0x10C
   symbol: FTFoxSubMotionResults4
   file_id: 380
@@ -224,7 +224,7 @@ FTFoxSubMotionResults4:
 
 FTDonkeySubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6B0654
+  offset: 0x744582
   size: 0x1080
   symbol: FTDonkeySubMotionAppearR
   file_id: 381
@@ -233,7 +233,7 @@ FTDonkeySubMotionAppearR:
 
 FTDonkeySubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6B16D4
+  offset: 0x745602
   size: 0x1594
   symbol: FTDonkeySubMotionAppearL
   file_id: 382
@@ -242,7 +242,7 @@ FTDonkeySubMotionAppearL:
 
 FTDonkeySubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6B2C68
+  offset: 0x746B96
   size: 0xFC0
   symbol: FTDonkeySubMotionAppearAlt1
   file_id: 383
@@ -251,7 +251,7 @@ FTDonkeySubMotionAppearAlt1:
 
 FTDonkeySubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6B3C28
+  offset: 0x747B56
   size: 0xEA4
   symbol: FTDonkeySubMotionAppearAlt2
   file_id: 384
@@ -260,7 +260,7 @@ FTDonkeySubMotionAppearAlt2:
 
 FTDonkeySubMotionTaunt:
   type: SSB64:RELOC
-  offset: 0x6B4ACC
+  offset: 0x7489FA
   size: 0x554
   symbol: FTDonkeySubMotionTaunt
   file_id: 385
@@ -269,7 +269,7 @@ FTDonkeySubMotionTaunt:
 
 FTDonkeySubMotionVictory1:
   type: SSB64:RELOC
-  offset: 0x6B5020
+  offset: 0x748F4E
   size: 0x3D4
   symbol: FTDonkeySubMotionVictory1
   file_id: 386
@@ -278,7 +278,7 @@ FTDonkeySubMotionVictory1:
 
 FTDonkeySubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6B53F4
+  offset: 0x749322
   size: 0xB10
   symbol: FTDonkeySubMotionVictory2
   file_id: 387
@@ -287,7 +287,7 @@ FTDonkeySubMotionVictory2:
 
 FTDonkeySubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6B5F04
+  offset: 0x749E32
   size: 0x1808
   symbol: FTDonkeySubMotionVictory3
   file_id: 388
@@ -296,7 +296,7 @@ FTDonkeySubMotionVictory3:
 
 FTDonkeySubMotionVictoryAlt:
   type: SSB64:RELOC
-  offset: 0x6B770C
+  offset: 0x74B63A
   size: 0x764
   symbol: FTDonkeySubMotionVictoryAlt
   file_id: 389
@@ -305,7 +305,7 @@ FTDonkeySubMotionVictoryAlt:
 
 FTDonkeySubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6B7E70
+  offset: 0x74BD9E
   size: 0xF4
   symbol: FTDonkeySubMotionResults1
   file_id: 390
@@ -314,7 +314,7 @@ FTDonkeySubMotionResults1:
 
 FTDonkeySubMotionResults2:
   type: SSB64:RELOC
-  offset: 0x6B7F64
+  offset: 0x74BE92
   size: 0x128
   symbol: FTDonkeySubMotionResults2
   file_id: 391
@@ -323,7 +323,7 @@ FTDonkeySubMotionResults2:
 
 FTDonkeySubMotionResults3:
   type: SSB64:RELOC
-  offset: 0x6B808C
+  offset: 0x74BFBA
   size: 0x158
   symbol: FTDonkeySubMotionResults3
   file_id: 392
@@ -332,7 +332,7 @@ FTDonkeySubMotionResults3:
 
 FTSamusSubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6B81E4
+  offset: 0x74C112
   size: 0xCC0
   symbol: FTSamusSubMotionAppearR
   file_id: 393
@@ -341,7 +341,7 @@ FTSamusSubMotionAppearR:
 
 FTSamusSubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6B8EA4
+  offset: 0x74CDD2
   size: 0x980
   symbol: FTSamusSubMotionAppearL
   file_id: 394
@@ -350,7 +350,7 @@ FTSamusSubMotionAppearL:
 
 FTSamusSubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6B9824
+  offset: 0x74D752
   size: 0xD08
   symbol: FTSamusSubMotionAppearAlt1
   file_id: 395
@@ -359,7 +359,7 @@ FTSamusSubMotionAppearAlt1:
 
 FTSamusSubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6BA52C
+  offset: 0x74E45A
   size: 0x488
   symbol: FTSamusSubMotionAppearAlt2
   file_id: 396
@@ -368,7 +368,7 @@ FTSamusSubMotionAppearAlt2:
 
 FTSamusSubMotionTaunt:
   type: SSB64:RELOC
-  offset: 0x6BA9B4
+  offset: 0x74E8E2
   size: 0x608
   symbol: FTSamusSubMotionTaunt
   file_id: 397
@@ -377,7 +377,7 @@ FTSamusSubMotionTaunt:
 
 FTSamusSubMotionVictory1:
   type: SSB64:RELOC
-  offset: 0x6BAFBC
+  offset: 0x74EEEA
   size: 0xA9C
   symbol: FTSamusSubMotionVictory1
   file_id: 398
@@ -386,7 +386,7 @@ FTSamusSubMotionVictory1:
 
 FTSamusSubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6BBA58
+  offset: 0x74F986
   size: 0x12FC
   symbol: FTSamusSubMotionVictory2
   file_id: 399
@@ -395,7 +395,7 @@ FTSamusSubMotionVictory2:
 
 FTSamusSubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6BCD54
+  offset: 0x750C82
   size: 0x5E4
   symbol: FTSamusSubMotionVictory3
   file_id: 400
@@ -404,7 +404,7 @@ FTSamusSubMotionVictory3:
 
 FTSamusSubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6BD338
+  offset: 0x751266
   size: 0xFC
   symbol: FTSamusSubMotionResults1
   file_id: 401
@@ -413,7 +413,7 @@ FTSamusSubMotionResults1:
 
 FTSamusSubMotionResults2:
   type: SSB64:RELOC
-  offset: 0x6BD434
+  offset: 0x751362
   size: 0x120
   symbol: FTSamusSubMotionResults2
   file_id: 402
@@ -422,7 +422,7 @@ FTSamusSubMotionResults2:
 
 FTSamusSubMotionResults3:
   type: SSB64:RELOC
-  offset: 0x6BD554
+  offset: 0x751482
   size: 0xD0
   symbol: FTSamusSubMotionResults3
   file_id: 403
@@ -431,7 +431,7 @@ FTSamusSubMotionResults3:
 
 FTLinkSubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6BD624
+  offset: 0x751552
   size: 0x12C8
   symbol: FTLinkSubMotionAppearR
   file_id: 404
@@ -440,7 +440,7 @@ FTLinkSubMotionAppearR:
 
 FTLinkSubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6BE8EC
+  offset: 0x75281A
   size: 0xED4
   symbol: FTLinkSubMotionAppearL
   file_id: 405
@@ -449,7 +449,7 @@ FTLinkSubMotionAppearL:
 
 FTLinkSubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6BF7C0
+  offset: 0x7536EE
   size: 0xE54
   symbol: FTLinkSubMotionAppearAlt1
   file_id: 406
@@ -458,7 +458,7 @@ FTLinkSubMotionAppearAlt1:
 
 FTLinkSubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6C0614
+  offset: 0x754542
   size: 0x52C
   symbol: FTLinkSubMotionAppearAlt2
   file_id: 407
@@ -467,7 +467,7 @@ FTLinkSubMotionAppearAlt2:
 
 FTLinkSubMotionTaunt:
   type: SSB64:RELOC
-  offset: 0x6C0B40
+  offset: 0x754A6E
   size: 0x504
   symbol: FTLinkSubMotionTaunt
   file_id: 408
@@ -476,7 +476,7 @@ FTLinkSubMotionTaunt:
 
 FTLinkSubMotionVictory1:
   type: SSB64:RELOC
-  offset: 0x6C1044
+  offset: 0x754F72
   size: 0xAD4
   symbol: FTLinkSubMotionVictory1
   file_id: 409
@@ -485,7 +485,7 @@ FTLinkSubMotionVictory1:
 
 FTLinkSubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6C1B18
+  offset: 0x755A46
   size: 0x18E8
   symbol: FTLinkSubMotionVictory2
   file_id: 410
@@ -494,7 +494,7 @@ FTLinkSubMotionVictory2:
 
 FTLinkSubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6C3400
+  offset: 0x75732E
   size: 0x9D8
   symbol: FTLinkSubMotionVictory3
   file_id: 411
@@ -503,7 +503,7 @@ FTLinkSubMotionVictory3:
 
 FTLinkSubMotionIdleAlt:
   type: SSB64:RELOC
-  offset: 0x6C3DD8
+  offset: 0x757D06
   size: 0x604
   symbol: FTLinkSubMotionIdleAlt
   file_id: 412
@@ -512,7 +512,7 @@ FTLinkSubMotionIdleAlt:
 
 FTLinkSubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6C43DC
+  offset: 0x75830A
   size: 0x164
   symbol: FTLinkSubMotionResults1
   file_id: 413
@@ -521,7 +521,7 @@ FTLinkSubMotionResults1:
 
 FTLinkSubMotionResults2:
   type: SSB64:RELOC
-  offset: 0x6C4540
+  offset: 0x75846E
   size: 0x138
   symbol: FTLinkSubMotionResults2
   file_id: 414
@@ -530,7 +530,7 @@ FTLinkSubMotionResults2:
 
 FTLinkSubMotionResults3:
   type: SSB64:RELOC
-  offset: 0x6C4678
+  offset: 0x7585A6
   size: 0x100
   symbol: FTLinkSubMotionResults3
   file_id: 415
@@ -539,7 +539,7 @@ FTLinkSubMotionResults3:
 
 FTKirbySubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6C4778
+  offset: 0x7586A6
   size: 0x15CC
   symbol: FTKirbySubMotionAppearR
   file_id: 416
@@ -548,7 +548,7 @@ FTKirbySubMotionAppearR:
 
 FTKirbySubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6C5D44
+  offset: 0x759C72
   size: 0x1B30
   symbol: FTKirbySubMotionAppearL
   file_id: 417
@@ -557,7 +557,7 @@ FTKirbySubMotionAppearL:
 
 FTKirbySubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6C7874
+  offset: 0x75B7A2
   size: 0x79C
   symbol: FTKirbySubMotionAppearAlt1
   file_id: 418
@@ -566,7 +566,7 @@ FTKirbySubMotionAppearAlt1:
 
 FTKirbySubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6C8010
+  offset: 0x75BF3E
   size: 0xFE4
   symbol: FTKirbySubMotionAppearAlt2
   file_id: 419
@@ -575,7 +575,7 @@ FTKirbySubMotionAppearAlt2:
 
 FTKirbySubMotionTaunt:
   type: SSB64:RELOC
-  offset: 0x6C8FF4
+  offset: 0x75CF22
   size: 0x3C8
   symbol: FTKirbySubMotionTaunt
   file_id: 420
@@ -584,7 +584,7 @@ FTKirbySubMotionTaunt:
 
 FTKirbySubMotionVictory1:
   type: SSB64:RELOC
-  offset: 0x6C93BC
+  offset: 0x75D2EA
   size: 0xA5C
   symbol: FTKirbySubMotionVictory1
   file_id: 421
@@ -593,7 +593,7 @@ FTKirbySubMotionVictory1:
 
 FTKirbySubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6C9E18
+  offset: 0x75DD46
   size: 0x18C0
   symbol: FTKirbySubMotionVictory2
   file_id: 422
@@ -602,7 +602,7 @@ FTKirbySubMotionVictory2:
 
 FTKirbySubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6CB6D8
+  offset: 0x75F606
   size: 0x384
   symbol: FTKirbySubMotionVictory3
   file_id: 423
@@ -611,7 +611,7 @@ FTKirbySubMotionVictory3:
 
 FTKirbySubMotionAppearSpecial:
   type: SSB64:RELOC
-  offset: 0x6CBA5C
+  offset: 0x75F98A
   size: 0xC58
   symbol: FTKirbySubMotionAppearSpecial
   file_id: 424
@@ -620,7 +620,7 @@ FTKirbySubMotionAppearSpecial:
 
 FTKirbySubMotionIdleAlt:
   type: SSB64:RELOC
-  offset: 0x6CC6B4
+  offset: 0x7605E2
   size: 0x5A4
   symbol: FTKirbySubMotionIdleAlt
   file_id: 425
@@ -629,7 +629,7 @@ FTKirbySubMotionIdleAlt:
 
 FTKirbySubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6CCC58
+  offset: 0x760B86
   size: 0xEC
   symbol: FTKirbySubMotionResults1
   file_id: 426
@@ -638,7 +638,7 @@ FTKirbySubMotionResults1:
 
 FTKirbySubMotionResults2:
   type: SSB64:RELOC
-  offset: 0x6CCD44
+  offset: 0x760C72
   size: 0x11C
   symbol: FTKirbySubMotionResults2
   file_id: 427
@@ -647,7 +647,7 @@ FTKirbySubMotionResults2:
 
 FTKirbySubMotionResults3:
   type: SSB64:RELOC
-  offset: 0x6CCE60
+  offset: 0x760D8E
   size: 0x5A4
   symbol: FTKirbySubMotionResults3
   file_id: 428
@@ -656,7 +656,7 @@ FTKirbySubMotionResults3:
 
 FTCaptainSubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6CD404
+  offset: 0x761332
   size: 0xDFC
   symbol: FTCaptainSubMotionAppearR
   file_id: 429
@@ -665,7 +665,7 @@ FTCaptainSubMotionAppearR:
 
 FTCaptainSubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6CE200
+  offset: 0x76212E
   size: 0xFE8
   symbol: FTCaptainSubMotionAppearL
   file_id: 430
@@ -674,7 +674,7 @@ FTCaptainSubMotionAppearL:
 
 FTCaptainSubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6CF1E8
+  offset: 0x763116
   size: 0x1138
   symbol: FTCaptainSubMotionAppearAlt1
   file_id: 431
@@ -683,7 +683,7 @@ FTCaptainSubMotionAppearAlt1:
 
 FTCaptainSubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6D0320
+  offset: 0x76424E
   size: 0x450
   symbol: FTCaptainSubMotionAppearAlt2
   file_id: 432
@@ -692,7 +692,7 @@ FTCaptainSubMotionAppearAlt2:
 
 FTCaptainSubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6D0770
+  offset: 0x76469E
   size: 0xAB4
   symbol: FTCaptainSubMotionVictory2
   file_id: 433
@@ -701,7 +701,7 @@ FTCaptainSubMotionVictory2:
 
 FTCaptainSubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6D1224
+  offset: 0x765152
   size: 0x18A4
   symbol: FTCaptainSubMotionVictory3
   file_id: 434
@@ -710,7 +710,7 @@ FTCaptainSubMotionVictory3:
 
 FTCaptainSubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6D2AC8
+  offset: 0x7669F6
   size: 0xE8
   symbol: FTCaptainSubMotionResults1
   file_id: 435
@@ -719,7 +719,7 @@ FTCaptainSubMotionResults1:
 
 FTNessSubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6D2BB0
+  offset: 0x766ADE
   size: 0x140C
   symbol: FTNessSubMotionAppearR
   file_id: 436
@@ -728,7 +728,7 @@ FTNessSubMotionAppearR:
 
 FTNessSubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6D3FBC
+  offset: 0x767EEA
   size: 0xE00
   symbol: FTNessSubMotionAppearL
   file_id: 437
@@ -737,7 +737,7 @@ FTNessSubMotionAppearL:
 
 FTNessSubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6D4DBC
+  offset: 0x768CEA
   size: 0x1C90
   symbol: FTNessSubMotionAppearAlt1
   file_id: 438
@@ -746,7 +746,7 @@ FTNessSubMotionAppearAlt1:
 
 FTNessSubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6D6A4C
+  offset: 0x76A97A
   size: 0x584
   symbol: FTNessSubMotionAppearAlt2
   file_id: 439
@@ -755,7 +755,7 @@ FTNessSubMotionAppearAlt2:
 
 FTNessSubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6D6FD0
+  offset: 0x76AEFE
   size: 0xB5C
   symbol: FTNessSubMotionVictory2
   file_id: 440
@@ -764,7 +764,7 @@ FTNessSubMotionVictory2:
 
 FTNessSubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6D7B2C
+  offset: 0x76BA5A
   size: 0x1E50
   symbol: FTNessSubMotionVictory3
   file_id: 441
@@ -773,7 +773,7 @@ FTNessSubMotionVictory3:
 
 FTNessSubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6D997C
+  offset: 0x76D8AA
   size: 0x168
   symbol: FTNessSubMotionResults1
   file_id: 442
@@ -782,7 +782,7 @@ FTNessSubMotionResults1:
 
 FTYoshiSubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6D9AE4
+  offset: 0x76DA12
   size: 0xB7C
   symbol: FTYoshiSubMotionAppearR
   file_id: 443
@@ -791,7 +791,7 @@ FTYoshiSubMotionAppearR:
 
 FTYoshiSubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6DA660
+  offset: 0x76E58E
   size: 0x1010
   symbol: FTYoshiSubMotionAppearL
   file_id: 444
@@ -800,7 +800,7 @@ FTYoshiSubMotionAppearL:
 
 FTYoshiSubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6DB670
+  offset: 0x76F59E
   size: 0x16DC
   symbol: FTYoshiSubMotionAppearAlt1
   file_id: 445
@@ -809,7 +809,7 @@ FTYoshiSubMotionAppearAlt1:
 
 FTYoshiSubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6DCD4C
+  offset: 0x770C7A
   size: 0x2B0
   symbol: FTYoshiSubMotionAppearAlt2
   file_id: 446
@@ -818,7 +818,7 @@ FTYoshiSubMotionAppearAlt2:
 
 FTYoshiSubMotionTaunt:
   type: SSB64:RELOC
-  offset: 0x6DCFFC
+  offset: 0x770F2A
   size: 0x604
   symbol: FTYoshiSubMotionTaunt
   file_id: 447
@@ -827,7 +827,7 @@ FTYoshiSubMotionTaunt:
 
 FTYoshiSubMotionVictory1:
   type: SSB64:RELOC
-  offset: 0x6DD600
+  offset: 0x77152E
   size: 0xAF8
   symbol: FTYoshiSubMotionVictory1
   file_id: 448
@@ -836,7 +836,7 @@ FTYoshiSubMotionVictory1:
 
 FTYoshiSubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6DE0F8
+  offset: 0x772026
   size: 0x1650
   symbol: FTYoshiSubMotionVictory2
   file_id: 449
@@ -845,7 +845,7 @@ FTYoshiSubMotionVictory2:
 
 FTYoshiSubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6DF748
+  offset: 0x773676
   size: 0x3A0
   symbol: FTYoshiSubMotionVictory3
   file_id: 450
@@ -854,7 +854,7 @@ FTYoshiSubMotionVictory3:
 
 FTYoshiSubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6DFAE8
+  offset: 0x773A16
   size: 0x34C
   symbol: FTYoshiSubMotionResults1
   file_id: 451
@@ -863,7 +863,7 @@ FTYoshiSubMotionResults1:
 
 FTYoshiSubMotionResults2:
   type: SSB64:RELOC
-  offset: 0x6DFE34
+  offset: 0x773D62
   size: 0x640
   symbol: FTYoshiSubMotionResults2
   file_id: 452
@@ -872,7 +872,7 @@ FTYoshiSubMotionResults2:
 
 FTYoshiSubMotionResults3:
   type: SSB64:RELOC
-  offset: 0x6E0474
+  offset: 0x7743A2
   size: 0x1BC
   symbol: FTYoshiSubMotionResults3
   file_id: 453
@@ -881,7 +881,7 @@ FTYoshiSubMotionResults3:
 
 FTYoshiSubMotionResults4:
   type: SSB64:RELOC
-  offset: 0x6E0630
+  offset: 0x77455E
   size: 0xA68
   symbol: FTYoshiSubMotionResults4
   file_id: 454
@@ -890,7 +890,7 @@ FTYoshiSubMotionResults4:
 
 FTYoshiSubMotionResultsAlt1:
   type: SSB64:RELOC
-  offset: 0x6E1098
+  offset: 0x774FC6
   size: 0x128
   symbol: FTYoshiSubMotionResultsAlt1
   file_id: 455
@@ -899,7 +899,7 @@ FTYoshiSubMotionResultsAlt1:
 
 FTYoshiSubMotionResultsAlt2:
   type: SSB64:RELOC
-  offset: 0x6E11C0
+  offset: 0x7750EE
   size: 0x120
   symbol: FTYoshiSubMotionResultsAlt2
   file_id: 456
@@ -908,7 +908,7 @@ FTYoshiSubMotionResultsAlt2:
 
 FTYoshiSubMotionResultsAlt3:
   type: SSB64:RELOC
-  offset: 0x6E12E0
+  offset: 0x77520E
   size: 0xB50
   symbol: FTYoshiSubMotionResultsAlt3
   file_id: 457
@@ -917,7 +917,7 @@ FTYoshiSubMotionResultsAlt3:
 
 FTBossSubMotionAttack1:
   type: SSB64:RELOC
-  offset: 0x6E1E30
+  offset: 0x775D5E
   size: 0xC4C
   symbol: FTBossSubMotionAttack1
   file_id: 458
@@ -926,7 +926,7 @@ FTBossSubMotionAttack1:
 
 FTBossSubMotionAttack2:
   type: SSB64:RELOC
-  offset: 0x6E2A7C
+  offset: 0x7769AA
   size: 0x15FC
   symbol: FTBossSubMotionAttack2
   file_id: 459
@@ -935,7 +935,7 @@ FTBossSubMotionAttack2:
 
 FTBossSubMotionAttack3:
   type: SSB64:RELOC
-  offset: 0x6E4078
+  offset: 0x777FA6
   size: 0xE24
   symbol: FTBossSubMotionAttack3
   file_id: 460
@@ -944,7 +944,7 @@ FTBossSubMotionAttack3:
 
 FTBossSubMotionAttack4:
   type: SSB64:RELOC
-  offset: 0x6E4E9C
+  offset: 0x778DCA
   size: 0x144
   symbol: FTBossSubMotionAttack4
   file_id: 461
@@ -953,7 +953,7 @@ FTBossSubMotionAttack4:
 
 FTLuigiSubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6E4FE0
+  offset: 0x778F0E
   size: 0x1344
   symbol: FTLuigiSubMotionAppearR
   file_id: 462
@@ -962,7 +962,7 @@ FTLuigiSubMotionAppearR:
 
 FTLuigiSubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6E6324
+  offset: 0x77A252
   size: 0xDA4
   symbol: FTLuigiSubMotionAppearL
   file_id: 463
@@ -971,7 +971,7 @@ FTLuigiSubMotionAppearL:
 
 FTLuigiSubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6E70C8
+  offset: 0x77AFF6
   size: 0x6DC
   symbol: FTLuigiSubMotionAppearAlt1
   file_id: 464
@@ -980,7 +980,7 @@ FTLuigiSubMotionAppearAlt1:
 
 FTLuigiSubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6E77A4
+  offset: 0x77B6D2
   size: 0x95C
   symbol: FTLuigiSubMotionAppearAlt2
   file_id: 465
@@ -989,7 +989,7 @@ FTLuigiSubMotionAppearAlt2:
 
 FTLuigiSubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6E8100
+  offset: 0x77C02E
   size: 0x1540
   symbol: FTLuigiSubMotionVictory2
   file_id: 466
@@ -998,7 +998,7 @@ FTLuigiSubMotionVictory2:
 
 FTLuigiSubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6E9640
+  offset: 0x77D56E
   size: 0x110
   symbol: FTLuigiSubMotionVictory3
   file_id: 467
@@ -1007,7 +1007,7 @@ FTLuigiSubMotionVictory3:
 
 FTLuigiSubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6E9750
+  offset: 0x77D67E
   size: 0xE8
   symbol: FTLuigiSubMotionResults1
   file_id: 468
@@ -1016,7 +1016,7 @@ FTLuigiSubMotionResults1:
 
 FTPurinSubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6E9838
+  offset: 0x77D766
   size: 0xC1C
   symbol: FTPurinSubMotionAppearR
   file_id: 469
@@ -1025,7 +1025,7 @@ FTPurinSubMotionAppearR:
 
 FTPurinSubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6EA454
+  offset: 0x77E382
   size: 0xA34
   symbol: FTPurinSubMotionAppearL
   file_id: 470
@@ -1034,7 +1034,7 @@ FTPurinSubMotionAppearL:
 
 FTPurinSubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6EAE88
+  offset: 0x77EDB6
   size: 0x900
   symbol: FTPurinSubMotionAppearAlt1
   file_id: 471
@@ -1043,7 +1043,7 @@ FTPurinSubMotionAppearAlt1:
 
 FTPurinSubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6EB788
+  offset: 0x77F6B6
   size: 0x2D8
   symbol: FTPurinSubMotionAppearAlt2
   file_id: 472
@@ -1052,7 +1052,7 @@ FTPurinSubMotionAppearAlt2:
 
 FTPurinSubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6EBA60
+  offset: 0x77F98E
   size: 0x990
   symbol: FTPurinSubMotionVictory2
   file_id: 473
@@ -1061,7 +1061,7 @@ FTPurinSubMotionVictory2:
 
 FTPurinSubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6EC3F0
+  offset: 0x78031E
   size: 0x12DC
   symbol: FTPurinSubMotionVictory3
   file_id: 474
@@ -1070,7 +1070,7 @@ FTPurinSubMotionVictory3:
 
 FTPurinSubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6ED6CC
+  offset: 0x7815FA
   size: 0xE0
   symbol: FTPurinSubMotionResults1
   file_id: 475
@@ -1079,7 +1079,7 @@ FTPurinSubMotionResults1:
 
 FTPikachuSubMotionAppearR:
   type: SSB64:RELOC
-  offset: 0x6ED7AC
+  offset: 0x7816DA
   size: 0xDF4
   symbol: FTPikachuSubMotionAppearR
   file_id: 476
@@ -1088,7 +1088,7 @@ FTPikachuSubMotionAppearR:
 
 FTPikachuSubMotionAppearL:
   type: SSB64:RELOC
-  offset: 0x6EE5A0
+  offset: 0x7824CE
   size: 0x664
   symbol: FTPikachuSubMotionAppearL
   file_id: 477
@@ -1097,7 +1097,7 @@ FTPikachuSubMotionAppearL:
 
 FTPikachuSubMotionAppearAlt1:
   type: SSB64:RELOC
-  offset: 0x6EEC04
+  offset: 0x782B32
   size: 0x3BC
   symbol: FTPikachuSubMotionAppearAlt1
   file_id: 478
@@ -1106,7 +1106,7 @@ FTPikachuSubMotionAppearAlt1:
 
 FTPikachuSubMotionAppearAlt2:
   type: SSB64:RELOC
-  offset: 0x6EEFC0
+  offset: 0x782EEE
   size: 0x534
   symbol: FTPikachuSubMotionAppearAlt2
   file_id: 479
@@ -1115,7 +1115,7 @@ FTPikachuSubMotionAppearAlt2:
 
 FTPikachuSubMotionTaunt:
   type: SSB64:RELOC
-  offset: 0x6EF4F4
+  offset: 0x783422
   size: 0x4F8
   symbol: FTPikachuSubMotionTaunt
   file_id: 480
@@ -1124,7 +1124,7 @@ FTPikachuSubMotionTaunt:
 
 FTPikachuSubMotionVictory1:
   type: SSB64:RELOC
-  offset: 0x6EF9EC
+  offset: 0x78391A
   size: 0xAE8
   symbol: FTPikachuSubMotionVictory1
   file_id: 481
@@ -1133,7 +1133,7 @@ FTPikachuSubMotionVictory1:
 
 FTPikachuSubMotionVictory2:
   type: SSB64:RELOC
-  offset: 0x6F04D4
+  offset: 0x784402
   size: 0x19BC
   symbol: FTPikachuSubMotionVictory2
   file_id: 482
@@ -1142,7 +1142,7 @@ FTPikachuSubMotionVictory2:
 
 FTPikachuSubMotionVictory3:
   type: SSB64:RELOC
-  offset: 0x6F1E90
+  offset: 0x785DBE
   size: 0xC74
   symbol: FTPikachuSubMotionVictory3
   file_id: 483
@@ -1151,7 +1151,7 @@ FTPikachuSubMotionVictory3:
 
 FTPikachuSubMotionIdleAlt:
   type: SSB64:RELOC
-  offset: 0x6F2B04
+  offset: 0x786A32
   size: 0xA7C
   symbol: FTPikachuSubMotionIdleAlt
   file_id: 484
@@ -1160,7 +1160,7 @@ FTPikachuSubMotionIdleAlt:
 
 FTPikachuSubMotionResults1:
   type: SSB64:RELOC
-  offset: 0x6F3580
+  offset: 0x7874AE
   size: 0x11C
   symbol: FTPikachuSubMotionResults1
   file_id: 485
@@ -1169,7 +1169,7 @@ FTPikachuSubMotionResults1:
 
 FTPikachuSubMotionResults2:
   type: SSB64:RELOC
-  offset: 0x6F369C
+  offset: 0x7875CA
   size: 0x168
   symbol: FTPikachuSubMotionResults2
   file_id: 486
@@ -1178,7 +1178,7 @@ FTPikachuSubMotionResults2:
 
 FTPikachuSubMotionResults3:
   type: SSB64:RELOC
-  offset: 0x6F3804
+  offset: 0x787732
   size: 0x160
   symbol: FTPikachuSubMotionResults3
   file_id: 487
@@ -1187,7 +1187,7 @@ FTPikachuSubMotionResults3:
 
 FTMMarioSubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F3964
+  offset: 0x787892
   size: 0xD4
   symbol: FTMMarioSubMotionIdle
   file_id: 488
@@ -1196,7 +1196,7 @@ FTMMarioSubMotionIdle:
 
 FTNMarioSubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F3A38
+  offset: 0x787966
   size: 0x1C8
   symbol: FTNMarioSubMotionIdle
   file_id: 489
@@ -1205,7 +1205,7 @@ FTNMarioSubMotionIdle:
 
 FTNFoxSubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F3C00
+  offset: 0x787B2E
   size: 0x200
   symbol: FTNFoxSubMotionIdle
   file_id: 490
@@ -1214,7 +1214,7 @@ FTNFoxSubMotionIdle:
 
 FTNDonkeySubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F3E00
+  offset: 0x787D2E
   size: 0x210
   symbol: FTNDonkeySubMotionIdle
   file_id: 491
@@ -1223,7 +1223,7 @@ FTNDonkeySubMotionIdle:
 
 FTNSamusSubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F4010
+  offset: 0x787F3E
   size: 0x18C
   symbol: FTNSamusSubMotionIdle
   file_id: 492
@@ -1232,7 +1232,7 @@ FTNSamusSubMotionIdle:
 
 FTNLinkSubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F419C
+  offset: 0x7880CA
   size: 0x1FC
   symbol: FTNLinkSubMotionIdle
   file_id: 493
@@ -1241,7 +1241,7 @@ FTNLinkSubMotionIdle:
 
 FTNYoshiSubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F4398
+  offset: 0x7882C6
   size: 0x198
   symbol: FTNYoshiSubMotionIdle
   file_id: 494
@@ -1250,7 +1250,7 @@ FTNYoshiSubMotionIdle:
 
 FTNCaptainSubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F4530
+  offset: 0x78845E
   size: 0x1AC
   symbol: FTNCaptainSubMotionIdle
   file_id: 495
@@ -1259,7 +1259,7 @@ FTNCaptainSubMotionIdle:
 
 FTNKirbySubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F46DC
+  offset: 0x78860A
   size: 0x1FC
   symbol: FTNKirbySubMotionIdle
   file_id: 496
@@ -1268,7 +1268,7 @@ FTNKirbySubMotionIdle:
 
 FTNPikachuSubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F48D8
+  offset: 0x788806
   size: 0x254
   symbol: FTNPikachuSubMotionIdle
   file_id: 497
@@ -1277,7 +1277,7 @@ FTNPikachuSubMotionIdle:
 
 FTNNessSubMotionIdle:
   type: SSB64:RELOC
-  offset: 0x6F4B2C
+  offset: 0x788A5A
   size: 0x204
   symbol: FTNNessSubMotionIdle
   file_id: 498

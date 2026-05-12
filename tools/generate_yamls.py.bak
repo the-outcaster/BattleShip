@@ -22,8 +22,7 @@ from pathlib import Path
 # ============================================================================
 
 RELOC_TABLE_ROM_ADDR = 0x001AC870
-RELOC_FILE_COUNT = 5455
-# old value: 2132
+RELOC_FILE_COUNT = 2132
 RELOC_TABLE_ENTRY_SIZE = 12  # bytes
 # Table has FILE_COUNT + 1 entries (sentinel at end)
 RELOC_TABLE_SIZE = (RELOC_FILE_COUNT + 1) * RELOC_TABLE_ENTRY_SIZE
@@ -122,74 +121,6 @@ SUPPLEMENTAL_NAMES = {
     302: ("MiscData302",        "extern_data"),
     315: ("MiscData315",        "extern_data"),
     326: ("MiscData326",        "extern_data"),
-
-    # --- KING DEDEDE (Fighters Custom) ---
-    4093: ("DededeMain", "fighters_custom"),
-    4094: ("DededeCharacter", "fighters_custom"),
-    4095: ("DededeStar", "fighters_custom"),
-    4098: ("DededeIdle", "fighters_custom"),
-    4099: ("DededeDash", "fighters_custom"),
-    4100: ("DededeRun", "fighters_custom"),
-    4101: ("DededeRunBrake", "fighters_custom"),
-    4102: ("DededeTurn", "fighters_custom"),
-    4103: ("DededeTurnRun", "fighters_custom"),
-    4104: ("DededeJumpF", "fighters_custom"),
-    4105: ("DededeJumpB", "fighters_custom"),
-    4106: ("DededeJumpAerial1", "fighters_custom"),
-    4107: ("DededeJumpAerial2", "fighters_custom"),
-    4108: ("DededeFall", "fighters_custom"),
-    4109: ("DededeFallAerial", "fighters_custom"),
-    4110: ("DededeLanding", "fighters_custom"),
-    4111: ("DededeUspBegin", "fighters_custom"),
-    4112: ("DededeUspLoop", "fighters_custom"),
-    4113: ("DededeUspLand", "fighters_custom"),
-    4114: ("DededeUspCancel", "fighters_custom"),
-    4115: ("DededeSfall", "fighters_custom"),
-    4116: ("DededeSfallLanding", "fighters_custom"),
-    4119: ("DededeDspBegin", "fighters_custom"),
-    4120: ("DededeDspCharge", "fighters_custom"),
-    4121: ("DededeDspShoot", "fighters_custom"),
-    4122: ("DededeNspBegin", "fighters_custom"),
-    4123: ("DededeNspLoop", "fighters_custom"),
-    4124: ("DededeNspPull", "fighters_custom"),
-    4125: ("DededeNspInhaledIdle", "fighters_custom"),
-    4126: ("DededeNspInhaledWalk", "fighters_custom"),
-    4127: ("DededeNspSpit", "fighters_custom"),
-    4128: ("DededeNspEnd", "fighters_custom"),
-    4129: ("DededeHammerIdle", "fighters_custom"),
-    4130: ("DededeHammerMove", "fighters_custom"),
-    4131: ("DededeCrouch", "fighters_custom"),
-    4132: ("DededeCrouchIdle", "fighters_custom"),
-    4133: ("DededeCrouchEnd", "fighters_custom"),
-    4134: ("DededeJab1", "fighters_custom"),
-    4135: ("DededeJab2", "fighters_custom"),
-    4136: ("DededeJab3", "fighters_custom"),
-    4137: ("DededeDashAttack", "fighters_custom"),
-    4138: ("DededeUTilt", "fighters_custom"),
-    4139: ("DededeAttackAirF", "fighters_custom"),
-    4140: ("DededeAttackAirN", "fighters_custom"),
-    4141: ("DededeAttackAirD", "fighters_custom"),
-    4142: ("DededeDSmash", "fighters_custom"),
-    4143: ("DededeGrab", "fighters_custom"),
-    4144: ("DededeGrabPull", "fighters_custom"),
-    4145: ("DededeThrowF", "fighters_custom"),
-    4146: ("DededeDTilt", "fighters_custom"),
-    4147: ("DededeUSmash", "fighters_custom"),
-    4148: ("DededeAttackAirU", "fighters_custom"),
-    4149: ("DededeThrowB", "fighters_custom"),
-    4150: ("DededeAttackAirB", "fighters_custom"),
-    4153: ("DededeFTilt", "fighters_custom"),
-    4154: ("DededeFSmash", "fighters_custom"),
-    4155: ("DededeTaunt", "fighters_custom"),
-    4156: ("DededeShieldPose", "fighters_custom"),
-    4160: ("DededeRollF", "fighters_custom"),
-    4161: ("DededeRollB", "fighters_custom"),
-    4162: ("DededeVictory1", "fighters_custom"),
-    4201: ("DededeTumble", "fighters_custom"),
-    4279: ("DededeStun", "fighters_custom"),
-    4285: ("DededeVictory2", "fighters_custom"),
-    4288: ("DededeVictory3", "fighters_custom"),
-    4698: ("NDededeMain", "fighters_custom"),
 }
 
 # ============================================================================
@@ -581,8 +512,6 @@ def main():
     # Compute file offsets and sizes
     files = compute_file_info(entries)
     print(f"  {len(files)} files total")
-
-    files = [f for f in files if f['id'] <= 5438]
 
     compressed_count = sum(1 for f in files if f['is_compressed'])
     print(f"  {compressed_count} compressed (VPK0)")

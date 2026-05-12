@@ -8,7 +8,7 @@
 
 MVCommon:
   type: SSB64:RELOC
-  offset: 0x2504C8
+  offset: 0x277E58
   size: 0xDF44
   symbol: MVCommon
   file_id: 52
@@ -17,7 +17,7 @@ MVCommon:
 
 MVOpeningPortraitsSet1:
   type: SSB64:RELOC
-  offset: 0x25E40C
+  offset: 0x285D9C
   size: 0xD1C8
   symbol: MVOpeningPortraitsSet1
   file_id: 53
@@ -26,7 +26,7 @@ MVOpeningPortraitsSet1:
 
 MVOpeningPortraitsSet2:
   type: SSB64:RELOC
-  offset: 0x26B5D4
+  offset: 0x292F64
   size: 0xC33C
   symbol: MVOpeningPortraitsSet2
   file_id: 54
@@ -35,7 +35,7 @@ MVOpeningPortraitsSet2:
 
 MVOpeningRun:
   type: SSB64:RELOC
-  offset: 0x277910
+  offset: 0x29F2A0
   size: 0x15F0
   symbol: MVOpeningRun
   file_id: 55
@@ -44,7 +44,7 @@ MVOpeningRun:
 
 MVOpeningRoomScene1:
   type: SSB64:RELOC
-  offset: 0x278F00
+  offset: 0x2A0890
   size: 0x380
   symbol: MVOpeningRoomScene1
   file_id: 56
@@ -53,7 +53,7 @@ MVOpeningRoomScene1:
 
 MVOpeningRoomScene2:
   type: SSB64:RELOC
-  offset: 0x279280
+  offset: 0x2A0C10
   size: 0x58
   symbol: MVOpeningRoomScene2
   file_id: 57
@@ -62,7 +62,7 @@ MVOpeningRoomScene2:
 
 MVOpeningRoomScene3:
   type: SSB64:RELOC
-  offset: 0x2792D8
+  offset: 0x2A0C68
   size: 0x70
   symbol: MVOpeningRoomScene3
   file_id: 58
@@ -71,7 +71,7 @@ MVOpeningRoomScene3:
 
 MVOpeningRoomScene4:
   type: SSB64:RELOC
-  offset: 0x279348
+  offset: 0x2A0CD8
   size: 0xDC
   symbol: MVOpeningRoomScene4
   file_id: 59
@@ -80,7 +80,7 @@ MVOpeningRoomScene4:
 
 MVOpeningRunMain:
   type: SSB64:RELOC
-  offset: 0x279424
+  offset: 0x2A0DB4
   size: 0x108
   symbol: MVOpeningRunMain
   file_id: 60
@@ -89,7 +89,7 @@ MVOpeningRunMain:
 
 MVOpeningNewcomers1:
   type: SSB64:RELOC
-  offset: 0x27952C
+  offset: 0x2A0EBC
   size: 0x11628
   symbol: MVOpeningNewcomers1
   file_id: 61
@@ -98,7 +98,7 @@ MVOpeningNewcomers1:
 
 MVOpeningNewcomers2:
   type: SSB64:RELOC
-  offset: 0x28AB54
+  offset: 0x2B24E4
   size: 0x1992C
   symbol: MVOpeningNewcomers2
   file_id: 62
@@ -107,7 +107,7 @@ MVOpeningNewcomers2:
 
 MVOpeningJungle:
   type: SSB64:RELOC
-  offset: 0x2A4B78
+  offset: 0x2CC508
   size: 0x1B4
   symbol: MVOpeningJungle
   file_id: 64
@@ -116,7 +116,7 @@ MVOpeningJungle:
 
 MVOpeningCommon:
   type: SSB64:RELOC
-  offset: 0x2A4D2C
+  offset: 0x2CC6BC
   size: 0x11C
   symbol: MVOpeningCommon
   file_id: 65
@@ -125,7 +125,7 @@ MVOpeningCommon:
 
 MVOpeningClashWallpaper:
   type: SSB64:RELOC
-  offset: 0x2A4E48
+  offset: 0x2CC7D8
   size: 0x1F88
   symbol: MVOpeningClashWallpaper
   file_id: 66
@@ -134,7 +134,7 @@ MVOpeningClashWallpaper:
 
 MVOpeningYoster:
   type: SSB64:RELOC
-  offset: 0x2A6DD0
+  offset: 0x2CE760
   size: 0x6C4C
   symbol: MVOpeningYoster
   file_id: 67
@@ -143,7 +143,7 @@ MVOpeningYoster:
 
 MVOpeningCliff:
   type: SSB64:RELOC
-  offset: 0x2ADA1C
+  offset: 0x2D53AC
   size: 0x7094
   symbol: MVOpeningCliff
   file_id: 68
@@ -152,7 +152,7 @@ MVOpeningCliff:
 
 MVOpeningStandoff:
   type: SSB64:RELOC
-  offset: 0x2B4AB0
+  offset: 0x2DC440
   size: 0x3FA0
   symbol: MVOpeningStandoff
   file_id: 69
@@ -161,7 +161,7 @@ MVOpeningStandoff:
 
 MVOpeningStandoffWallpaper:
   type: SSB64:RELOC
-  offset: 0x2B8A50
+  offset: 0x2E03E0
   size: 0x29B8
   symbol: MVOpeningStandoffWallpaper
   file_id: 70
@@ -170,7 +170,7 @@ MVOpeningStandoffWallpaper:
 
 MVOpeningYamabuki:
   type: SSB64:RELOC
-  offset: 0x2BB408
+  offset: 0x2E2D98
   size: 0x18730
   symbol: MVOpeningYamabuki
   file_id: 71
@@ -179,7 +179,7 @@ MVOpeningYamabuki:
 
 MVOpeningClashFighters:
   type: SSB64:RELOC
-  offset: 0x2D3B38
+  offset: 0x2FB4C8
   size: 0xC24
   symbol: MVOpeningClashFighters
   file_id: 72
@@ -188,7 +188,7 @@ MVOpeningClashFighters:
 
 MVOpeningSector:
   type: SSB64:RELOC
-  offset: 0x2D475C
+  offset: 0x2FC0EC
   size: 0x15640
   symbol: MVOpeningSector
   file_id: 73
@@ -197,7 +197,7 @@ MVOpeningSector:
 
 MVOpeningSectorWallpaper:
   type: SSB64:RELOC
-  offset: 0x2E9D9C
+  offset: 0x31172C
   size: 0xAC48
   symbol: MVOpeningSectorWallpaper
   file_id: 74
@@ -206,7 +206,7 @@ MVOpeningSectorWallpaper:
 
 MVOpeningRunCrash:
   type: SSB64:RELOC
-  offset: 0x2F49E4
+  offset: 0x31C374
   size: 0x19C0
   symbol: MVOpeningRunCrash
   file_id: 75
@@ -215,7 +215,7 @@ MVOpeningRunCrash:
 
 MVEnding:
   type: SSB64:RELOC
-  offset: 0x2F63A4
+  offset: 0x31DD34
   size: 0x47C
   symbol: MVEnding
   file_id: 76
@@ -224,7 +224,7 @@ MVEnding:
 
 MVOpeningRoomWallpaper:
   type: SSB64:RELOC
-  offset: 0x34FF68
+  offset: 0x377850
   size: 0x19F88
   symbol: MVOpeningRoomWallpaper
   file_id: 90

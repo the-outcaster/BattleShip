@@ -4480,3 +4480,7 @@ llDonkeySpecial2EntryTaruAnimJoint = 0x0850;
 
 llMarioSpecial2EntryDokanDObjDesc = 0x0608;
 llMarioSpecial2EntryDokanAnimJoint = 0x06C0;
+
+llDededeMainFileID = 0x0;
+llDededeCharacterFileID = 0x0;
+llDededeShieldPoseFileID = 0x0;

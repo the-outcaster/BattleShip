@@ -8,7 +8,7 @@
 
 BonusPicture:
   type: SSB64:RELOC
-  offset: 0x1DF8C4
+  offset: 0x1F2FD4
   size: 0x7BA8
   symbol: BonusPicture
   file_id: 13
@@ -17,7 +17,7 @@ BonusPicture:
 
 BonusPicturePlatform:
   type: SSB64:RELOC
-  offset: 0x1E746C
+  offset: 0x1FAB7C
   size: 0xDC24
   symbol: BonusPicturePlatform
   file_id: 14
@@ -26,7 +26,7 @@ BonusPicturePlatform:
 
 Bonus2Common:
   type: SSB64:RELOC
-  offset: 0x429A78
+  offset: 0x451360
   size: 0x1E74
   symbol: Bonus2Common
   file_id: 136
@@ -35,7 +35,7 @@ Bonus2Common:
 
 BonusDataBank137:
   type: SSB64:RELOC
-  offset: 0x42B8EC
+  offset: 0x4531D4
   size: 0x139C
   symbol: BonusDataBank137
   file_id: 137
@@ -44,7 +44,7 @@ BonusDataBank137:
 
 BonusDataBank138:
   type: SSB64:RELOC
-  offset: 0x42CC88
+  offset: 0x454570
   size: 0x17D0
   symbol: BonusDataBank138
   file_id: 138
@@ -53,7 +53,7 @@ BonusDataBank138:
 
 BonusDataBank139:
   type: SSB64:RELOC
-  offset: 0x42E458
+  offset: 0x455D40
   size: 0x1248
   symbol: BonusDataBank139
   file_id: 139
@@ -62,7 +62,7 @@ BonusDataBank139:
 
 BonusDataBank140:
   type: SSB64:RELOC
-  offset: 0x42F6A0
+  offset: 0x456F88
   size: 0xD90
   symbol: BonusDataBank140
   file_id: 140
@@ -71,7 +71,7 @@ BonusDataBank140:
 
 BonusDataBank141:
   type: SSB64:RELOC
-  offset: 0x430430
+  offset: 0x457D18
   size: 0x1730
   symbol: BonusDataBank141
   file_id: 141
@@ -80,7 +80,7 @@ BonusDataBank141:
 
 BonusDataBank142:
   type: SSB64:RELOC
-  offset: 0x431B60
+  offset: 0x459448
   size: 0x18CE
   symbol: BonusDataBank142
   file_id: 142
@@ -89,7 +89,7 @@ BonusDataBank142:
 
 BonusDataBank143:
   type: SSB64:RELOC
-  offset: 0x43342E
+  offset: 0x45AD16
   size: 0x136E
   symbol: BonusDataBank143
   file_id: 143
@@ -98,7 +98,7 @@ BonusDataBank143:
 
 BonusDataBank144:
   type: SSB64:RELOC
-  offset: 0x43479C
+  offset: 0x45C084
   size: 0x1980
   symbol: BonusDataBank144
   file_id: 144
@@ -107,7 +107,7 @@ BonusDataBank144:
 
 BonusDataBank145:
   type: SSB64:RELOC
-  offset: 0x43611C
+  offset: 0x45DA04
   size: 0x1480
   symbol: BonusDataBank145
   file_id: 145
@@ -116,7 +116,7 @@ BonusDataBank145:
 
 BonusDataBank146:
   type: SSB64:RELOC
-  offset: 0x43759C
+  offset: 0x45EE84
   size: 0x187C
   symbol: BonusDataBank146
   file_id: 146
@@ -125,7 +125,7 @@ BonusDataBank146:
 
 BonusDataBank147:
   type: SSB64:RELOC
-  offset: 0x438E18
+  offset: 0x460700
   size: 0x1C8A
   symbol: BonusDataBank147
   file_id: 147
@@ -134,7 +134,7 @@ BonusDataBank147:
 
 BonusDataBank148:
   type: SSB64:RELOC
-  offset: 0x43AAA2
+  offset: 0x46238A
   size: 0x15CC
   symbol: BonusDataBank148
   file_id: 148
@@ -143,7 +143,7 @@ BonusDataBank148:
 
 BonusDataBank149:
   type: SSB64:RELOC
-  offset: 0x43C06E
+  offset: 0x463956
   size: 0x2328
   symbol: BonusDataBank149
   file_id: 149
@@ -152,7 +152,7 @@ BonusDataBank149:
 
 BonusDataBank150:
   type: SSB64:RELOC
-  offset: 0x43E396
+  offset: 0x465C7E
   size: 0xA88
   symbol: BonusDataBank150
   file_id: 150
