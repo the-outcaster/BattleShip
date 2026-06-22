@@ -85,6 +85,7 @@ const char* NeutralSpawnsCVarName();
 const char* BootToVSCSSCVarName();
 const char* SkipResultsScreenCVarName();
 const char* CpuLevel9CVarName();
+const char* Level10CPUCVarName();
 
 // Discord Rich Presence
 void UpdateDiscordPresence(const char* gameState, const char* matchDetails);

@@ -1188,6 +1188,11 @@ void PortMenu::AddMenuSettings() {
     AddWidget(path, "Unlock Item Switch Menu", WIDGET_CVAR_CHECKBOX).CVar("gCheats.UnlockItemSwitch").RaceDisable(false);
     AddWidget(path, "Unlock Sound Test Menu", WIDGET_CVAR_CHECKBOX).CVar("gCheats.UnlockSoundTest").RaceDisable(false);
 
+    AddWidget(path, "Other", WIDGET_SEPARATOR_TEXT);
+    AddWidget(path, "Level 10 CPU", WIDGET_CVAR_CHECKBOX)
+        .CVar("gCheats.Lvl10CPU")
+        .RaceDisable(false);
+
     // --- Tools ---
     path.sidebarName = "Tools";
     path.column = SECTION_COLUMN_1;
