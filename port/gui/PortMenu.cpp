@@ -1120,9 +1120,13 @@ void PortMenu::AddMenuSettings() {
     // --- Other ---
     AddWidget(path, "Other", WIDGET_SEPARATOR_TEXT);
         AddWidget(path, "Disable HUD", WIDGET_CVAR_CHECKBOX)
-        .CVar(ssb64::enhancements::DisableHUDCVarName())
-        .RaceDisable(false)
-        .Options(CheckboxOptions().Tooltip("Disables the in-game HUD. Note that some icons will still be visible (e.g. CPU icons in 1P Mode on the top-left.)"));
+            .CVar(ssb64::enhancements::DisableHUDCVarName())
+            .RaceDisable(false)
+            .Options(CheckboxOptions().Tooltip("Disables the in-game HUD. Note that some icons will still be visible (e.g. CPU icons in 1P Mode on the top-left.)"));
+        AddWidget(path, "Enable 1P Mode Randomizer", WIDGET_CVAR_CHECKBOX)
+            .CVar(ssb64::enhancements::SinglePlayerShufflerCVarName())
+            .RaceDisable(false)
+            .Options(CheckboxOptions().Tooltip("Randomly shuffles who you verse against in 1P Mode.)"));
 
     // --- Input customization ---
     path.sidebarName = "Input Mappings";

@@ -80,6 +80,10 @@ int port_classic_coop_context(void);
 void port_classic_coop_set_context(int active);
 int port_classic_coop_friendly_fire(void);
 
+// 1P Mode True Randomizer. Overwrites the SCBattleState immediately before
+// sc1PGameStartScene executes, shuffling the stage and opponents.
+void port_enhancement_true_randomizer_override(int spgame_stage);
+
 #ifdef __cplusplus
 }
 
@@ -106,6 +110,9 @@ const char* ClassicCoopFriendlyFireCVarName();
 const char* ShuffleMusicCVarName();
 const char* MusicSelectionCVarName();
 const char* DisableHUDCVarName();
+inline const char* SinglePlayerShufflerCVarName() {
+    return "gEnhancements.SinglePlayerShuffler";
+}
 
 // Discord Rich Presence
 void UpdateDiscordPresence(const char* gameState, const char* matchDetails);
